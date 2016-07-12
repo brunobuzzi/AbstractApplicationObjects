@@ -1,0 +1,16 @@
+{
+	"category" : "AbstractApplicationObjects",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"Default" ],
+	"commentStamp" : "",
+	"instvars" : [
+		"orbeonIP",
+		"dateFormat",
+		"timeFormat" ],
+	"name" : "OrbeonServerConfiguration",
+	"pools" : [
+		 ],
+	"super" : "ApplicationServerConfiguration",
+	"type" : "normal" }

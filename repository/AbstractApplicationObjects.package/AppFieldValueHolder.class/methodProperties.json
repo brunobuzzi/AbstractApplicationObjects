@@ -1,0 +1,27 @@
+{
+	"class" : {
+		"forFieldNamed:" : "BrunoBB 02/11/2016 11:51" },
+	"instance" : {
+		"alreadyAddedToFormDefinition" : "BrunoBB 02/11/2016 11:51",
+		"alreadyAddedToFormDefinition:" : "BrunoBB 02/11/2016 11:51",
+		"alreadyAddedToProcessDefinition" : "BrunoBB 02/11/2016 11:51",
+		"alreadyAddedToProcessDefinition:" : "BrunoBB 02/11/2016 11:51",
+		"currentSize" : "BrunoBB 04/27/2016 11:03",
+		"currentValues" : "BrunoBB 02/11/2016 11:51",
+		"currentValues:" : "BrunoBB 02/11/2016 11:51",
+		"fieldName" : "BrunoBB 02/11/2016 11:51",
+		"fieldName:" : "BrunoBB 02/11/2016 11:51",
+		"fieldsToAddDo:" : "BrunoBB 02/11/2016 11:51",
+		"fieldsToRemoveDo:" : "BrunoBB 02/11/2016 11:51",
+		"hasElementsToAdd" : "BrunoBB 02/11/2016 11:51",
+		"hasElementsToRemove" : "BrunoBB 02/11/2016 11:51",
+		"initialize" : "BrunoBB 02/11/2016 11:51",
+		"processFieldValueCollection:withFieldClass:in:" : "BrunoBB 02/16/2016 13:06",
+		"processFieldValueCollection:withFieldClass:in:isStObject:" : "BrunoBB 02/23/2016 08:59",
+		"toAdd" : "BrunoBB 02/11/2016 11:51",
+		"toAdd:" : "BrunoBB 02/11/2016 11:51",
+		"toRemove" : "BrunoBB 02/11/2016 11:51",
+		"toRemove:" : "BrunoBB 02/11/2016 11:51",
+		"updateAndAddCurrentFieldValuesWith:fieldClass:form:" : "BrunoBB 02/11/2016 11:51",
+		"updateAndRemoveCurrentFieldValuesWith:" : "BrunoBB 02/11/2016 11:51",
+		"updateEqualCurrentFieldValuesWith:" : "BrunoBB 02/11/2016 11:51" } }

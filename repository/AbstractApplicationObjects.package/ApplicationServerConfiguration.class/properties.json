@@ -1,0 +1,14 @@
+{
+	"category" : "AbstractApplicationObjects",
+	"classinstvars" : [
+		"default" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "ApplicationServerConfiguration",
+	"pools" : [
+		 ],
+	"super" : "AbstractApplicationObject",
+	"type" : "normal" }

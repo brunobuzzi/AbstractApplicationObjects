@@ -1,0 +1,17 @@
+{
+	"class" : {
+		"cache" : "BrunoBB 12/20/2015 11:16",
+		"getExistingOrNewUserNamed:" : "BrunoBB 12/20/2015 11:37",
+		"getUserNamed:" : "BrunoBB 12/20/2015 11:17",
+		"initializeCache" : "BrunoBB 12/20/2015 11:16",
+		"newUserNamed:password:" : "BrunoBB 12/20/2015 11:26" },
+	"instance" : {
+		"addToCache" : "BrunoBB 12/20/2015 11:18",
+		"initialize" : "BrunoBB 06/13/2016 09:56",
+		"password" : "BrunoBB 12/20/2015 11:16",
+		"password:" : "BrunoBB 12/20/2015 11:16",
+		"printOn:" : "BrunoBB 04/17/2016 12:43",
+		"printResetedPassword" : "BrunoBB 05/14/2016 16:52",
+		"resetPassword" : "BrunoBB 05/14/2016 15:48",
+		"username" : "BrunoBB 12/20/2015 11:16",
+		"username:" : "BrunoBB 12/20/2015 11:16" } }

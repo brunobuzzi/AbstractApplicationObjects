@@ -1,0 +1,4 @@
+*abstractApplicationObjects
+getOrbeonDatabaseConfiguration
+
+	^OrbeonDatabaseConfiguration default

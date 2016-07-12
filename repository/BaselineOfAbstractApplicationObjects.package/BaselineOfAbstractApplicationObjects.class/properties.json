@@ -1,0 +1,14 @@
+{
+	"category" : "BaselineOfAbstractApplicationObjects",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BaselineOfAbstractApplicationObjects",
+	"pools" : [
+		 ],
+	"super" : "BaselineOf",
+	"type" : "normal" }

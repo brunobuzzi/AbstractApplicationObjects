@@ -1,0 +1,26 @@
+{
+	"class" : {
+		"applicationNamed:" : "BrunoBB 02/08/2016 13:38",
+		"applicationNamed:ifNone:" : "BrunoBB 02/25/2016 12:20",
+		"cache" : "BrunoBB 02/08/2016 13:53",
+		"getAnyApplicationNamed:" : "BrunoBB 02/25/2016 12:21",
+		"getAnyApplicationNamed:ifNone:" : "BrunoBB 02/25/2016 16:43",
+		"getBpmCache" : "BrunoBB 02/25/2016 12:21",
+		"getOrbeonCache" : "BrunoBB 02/25/2016 12:21",
+		"hasApplicationNamed:" : "BrunoBB 02/08/2016 13:53",
+		"initializeCache" : "BrunoBB 02/08/2016 14:33",
+		"newNamed:" : "BrunoBB 02/08/2016 13:23" },
+	"instance" : {
+		"addToCache" : "BrunoBB 02/08/2016 14:53",
+		"applicationName" : "BrunoBB 02/08/2016 12:40",
+		"applicationName:" : "BrunoBB 02/08/2016 12:40",
+		"cache" : "BrunoBB 02/04/2016 10:08",
+		"getApplicationNameForCombo" : "BrunoBB 02/25/2016 16:30",
+		"getBpmCache" : "BrunoBB 02/25/2016 12:21",
+		"getOrbeonCache" : "BrunoBB 02/25/2016 12:22",
+		"isBpmApplication" : "BrunoBB 02/25/2016 12:22",
+		"isObeonApplication" : "BrunoBB 02/25/2016 12:22",
+		"removeFromCache" : "BrunoBB 12/27/2015 12:16",
+		"throwExceptionAlreadyInCache" : "BrunoBB 12/27/2015 12:15",
+		"throwExceptionNoApplicationName" : "BrunoBB 12/27/2015 12:13",
+		"throwExceptionNotInCache" : "BrunoBB 12/27/2015 12:17" } }

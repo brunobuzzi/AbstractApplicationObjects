@@ -1,0 +1,16 @@
+{
+	"category" : "AbstractApplicationObjects",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"Default" ],
+	"commentStamp" : "",
+	"instvars" : [
+		"languagesDictionaries",
+		"translationCollectors",
+		"currentCollector" ],
+	"name" : "ApplicationInternationalization",
+	"pools" : [
+		 ],
+	"super" : "AbstractApplicationObject",
+	"type" : "normal" }

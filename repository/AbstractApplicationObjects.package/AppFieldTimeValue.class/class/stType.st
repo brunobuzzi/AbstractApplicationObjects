@@ -1,0 +1,4 @@
+other
+stType
+
+	^Time

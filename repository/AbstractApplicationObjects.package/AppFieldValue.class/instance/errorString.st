@@ -1,0 +1,3 @@
+Accessing
+errorString
+	^errorString

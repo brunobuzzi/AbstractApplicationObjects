@@ -1,0 +1,14 @@
+{
+	"category" : "AbstractApplicationObjects",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "AppFieldBooelanValue",
+	"pools" : [
+		 ],
+	"super" : "AppFieldValue",
+	"type" : "normal" }

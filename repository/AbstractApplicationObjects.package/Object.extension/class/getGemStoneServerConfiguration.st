@@ -1,0 +1,4 @@
+*abstractApplicationObjects
+getGemStoneServerConfiguration
+
+	^GemStoneServerConfiguration default

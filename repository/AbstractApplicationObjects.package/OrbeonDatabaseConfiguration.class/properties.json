@@ -1,0 +1,16 @@
+{
+	"category" : "AbstractApplicationObjects",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"Default" ],
+	"commentStamp" : "",
+	"instvars" : [
+		"databaseIP",
+		"databaseUser",
+		"databasePassword" ],
+	"name" : "OrbeonDatabaseConfiguration",
+	"pools" : [
+		 ],
+	"super" : "ApplicationServerConfiguration",
+	"type" : "normal" }
