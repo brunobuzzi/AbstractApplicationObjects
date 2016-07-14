@@ -1,11 +1,6 @@
 baseline
 baseline: spec
-  <baseline>
-  spec
-    for: #'common'
-    do: [ 
-      spec
-        baseline: 'AbstractApplicationObjects'
-        with: [ spec repository: 'github://brunobuzzi/AbstractApplicationObjects:master' ].
-      spec
-        package: 'AbstractApplicationObjects']
+   <baseline>
+   spec
+     for: #'common'
+     do: [spec package: 'AbstractApplicationObjects']
