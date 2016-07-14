@@ -10,4 +10,4 @@ baseline: spec
       spec import: 'AbstractApplicationObjects'.
       spec
         package: 'AbstractApplicationObjects'
-        with: [ spec requires: 'AbstractApplicationObjects' ] ]
+with: [ spec requires: 'AbstractApplicationObjects' ] ]
