@@ -4,4 +4,5 @@ baseline: spec
   spec
     for: #'common' do: [ 
 		spec baseline: 'AbstractApplicationObjects' with: [
-			  spec repository: 'github://brunobuzzi/AbstractApplicationObjects:master' ]].
+			  spec repository: 'github://brunobuzzi/AbstractApplicationObjects:master' ].
+		spec import: 'AbstractApplicationObjects'].
