@@ -7,7 +7,5 @@ baseline: spec
       spec
         baseline: 'AbstractApplicationObjects'
         with: [ spec repository: 'github://brunobuzzi/AbstractApplicationObjects:master' ].
-      spec import: 'AbstractApplicationObjects'.
       spec
-        package: 'AbstractApplicationObjects'
-with: [ spec requires: 'AbstractApplicationObjects' ] ]
+        package: 'AbstractApplicationObjects']
