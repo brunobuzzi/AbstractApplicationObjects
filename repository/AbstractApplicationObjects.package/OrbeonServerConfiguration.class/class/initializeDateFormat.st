@@ -1,4 +1,4 @@
 other
 initializeDateFormat
 
-	self default dateFormat: '[M]/[D]/[Y]'
+	self default dateFormat: '[Y]-[M]-[D]'
