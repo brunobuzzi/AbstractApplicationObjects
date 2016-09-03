@@ -1,4 +1,4 @@
 other
 initializeTimeFormat
 
-	self default timeFormat: '[H]:[m]:[s]'
+	default timeFormat: '[H]:[m]:[s]'
