@@ -1,0 +1,25 @@
+{
+	"category" : "AbstractApplicationObjects",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"Cache" ],
+	"commentStamp" : "",
+	"instvars" : [
+		"name",
+		"description",
+		"createdTime",
+		"secondsToConstruct",
+		"isClosed",
+		"rootDistribution",
+		"startDate",
+		"endDate",
+		"distributionMethod",
+		"conditionStringBlock",
+		"svgContents",
+		"creator" ],
+	"name" : "AppDistributionReport",
+	"pools" : [
+		 ],
+	"super" : "AbstractApplicationObject",
+	"type" : "normal" }
