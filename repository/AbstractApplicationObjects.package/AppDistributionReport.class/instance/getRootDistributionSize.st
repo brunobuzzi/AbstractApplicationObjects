@@ -1,0 +1,4 @@
+other
+getRootDistributionSize
+
+	^rootDistribution size
