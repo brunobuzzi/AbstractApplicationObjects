@@ -1,4 +1,4 @@
-other
+functions
 getRootPercentageDistribution
 	| percentageDistribution total |
 
