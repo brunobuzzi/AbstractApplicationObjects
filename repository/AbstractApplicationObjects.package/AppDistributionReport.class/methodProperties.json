@@ -1,11 +1,8 @@
 {
 	"class" : {
-		"cache" : "BrunoBB 10/29/2016 14:15",
-		"distribution:" : "BrunoBB 10/29/2016 14:15",
-		"getCacheSize" : "BrunoBB 10/29/2016 14:15",
-		"initializeCache" : "BrunoBB 10/29/2016 14:15" },
+		"distribution:" : "BrunoBB 10/29/2016 14:15" },
 	"instance" : {
-		"addToCache" : "BrunoBB 10/29/2016 14:15",
+		"addToCache" : "BrunoBB 11/15/2016 07:03",
 		"conditionStringBlock" : "BrunoBB 10/29/2016 14:15",
 		"conditionStringBlock:" : "BrunoBB 10/29/2016 14:15",
 		"createdTime" : "BrunoBB 10/29/2016 14:15",
@@ -31,6 +28,8 @@
 		"name:" : "BrunoBB 10/29/2016 14:15",
 		"printAverageTime" : "BrunoBB 11/08/2016 03:16",
 		"printAverageTimeFor:" : "BrunoBB 11/08/2016 04:01",
+		"removeFromCache" : "BrunoBB 11/15/2016 07:03",
+		"reportRepository" : "BrunoBB 11/15/2016 07:00",
 		"rootDistribution" : "BrunoBB 10/29/2016 14:15",
 		"rootDistribution:" : "BrunoBB 10/29/2016 14:15",
 		"runDistribution" : "BrunoBB 10/29/2016 14:15",

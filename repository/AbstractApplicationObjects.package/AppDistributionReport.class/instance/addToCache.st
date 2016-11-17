@@ -1,4 +1,4 @@
 other
 addToCache
 
-	^self class cache add: self
+	^self reportRepository addReport: self
