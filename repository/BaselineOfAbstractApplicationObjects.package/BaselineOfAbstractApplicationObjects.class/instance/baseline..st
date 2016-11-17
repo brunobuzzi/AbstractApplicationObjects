@@ -3,4 +3,4 @@ baseline: spec
    <baseline>
    spec
      for: #'common'
-     do: [spec package: 'AbstractApplicationObjects']
+do: [spec package: 'AbstractApplicationObjects']
