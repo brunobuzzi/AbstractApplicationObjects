@@ -1,6 +1,7 @@
 {
 	"class" : {
-		"distribution:" : "BrunoBB 10/29/2016 14:15" },
+		"distribution:" : "BrunoBB 10/29/2016 14:15",
+		"getComboName" : "BrunoBB 11/19/2016 06:18" },
 	"instance" : {
 		"addToCache" : "BrunoBB 11/15/2016 07:03",
 		"conditionStringBlock" : "BrunoBB 10/29/2016 14:15",
@@ -9,6 +10,7 @@
 		"createdTime:" : "BrunoBB 10/29/2016 14:15",
 		"creator" : "BrunoBB 10/29/2016 14:15",
 		"creator:" : "BrunoBB 10/29/2016 14:15",
+		"creatorName" : "BrunoBB 11/19/2016 07:51",
 		"description" : "BrunoBB 10/29/2016 14:15",
 		"description:" : "BrunoBB 10/29/2016 14:15",
 		"distributionMethod" : "BrunoBB 10/29/2016 14:15",
@@ -24,6 +26,7 @@
 		"initialize" : "BrunoBB 10/29/2016 14:15",
 		"isClosed" : "BrunoBB 10/29/2016 14:15",
 		"isClosed:" : "BrunoBB 10/29/2016 14:15",
+		"isGlobal" : "BrunoBB 11/19/2016 07:37",
 		"name" : "BrunoBB 10/29/2016 14:15",
 		"name:" : "BrunoBB 10/29/2016 14:15",
 		"printAverageTime" : "BrunoBB 11/08/2016 03:16",
