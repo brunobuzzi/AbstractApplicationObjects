@@ -4,6 +4,7 @@
 		"getComboName" : "BrunoBB 11/19/2016 06:18" },
 	"instance" : {
 		"addToCache" : "BrunoBB 11/15/2016 07:03",
+		"applicationName" : "BrunoBB 11/21/2016 03:27",
 		"conditionStringBlock" : "BrunoBB 10/29/2016 14:15",
 		"conditionStringBlock:" : "BrunoBB 10/29/2016 14:15",
 		"createdTime" : "BrunoBB 10/29/2016 14:15",
@@ -17,6 +18,7 @@
 		"distributionMethod:" : "BrunoBB 10/29/2016 14:15",
 		"endDate" : "BrunoBB 10/29/2016 14:15",
 		"endDate:" : "BrunoBB 10/29/2016 14:15",
+		"formName" : "BrunoBB 11/21/2016 04:44",
 		"getAverageTimeAsSeconds" : "BrunoBB 11/13/2016 10:06",
 		"getDescriptionItems" : "BrunoBB 11/20/2016 10:46",
 		"getRootDistributionSize" : "BrunoBB 11/07/2016 06:46",
@@ -28,6 +30,7 @@
 		"isApplication" : "BrunoBB 11/19/2016 08:59",
 		"isClosed" : "BrunoBB 10/29/2016 14:15",
 		"isClosed:" : "BrunoBB 10/29/2016 14:15",
+		"isField" : "BrunoBB 11/21/2016 03:18",
 		"isGlobal" : "BrunoBB 11/19/2016 07:37",
 		"isProcess" : "BrunoBB 11/19/2016 09:25",
 		"isRole" : "BrunoBB 11/19/2016 09:48",
@@ -36,6 +39,11 @@
 		"name:" : "BrunoBB 10/29/2016 14:15",
 		"printAverageTime" : "BrunoBB 11/08/2016 03:16",
 		"printAverageTimeFor:" : "BrunoBB 11/08/2016 04:01",
+		"printDistributionMethod" : "BrunoBB 11/21/2016 03:11",
+		"printEndDate" : "BrunoBB 11/21/2016 03:05",
+		"printSecondsToConstruct" : "BrunoBB 11/21/2016 03:43",
+		"printStartDate" : "BrunoBB 11/21/2016 03:05",
+		"processName" : "BrunoBB 11/21/2016 03:27",
 		"removeFromCache" : "BrunoBB 11/15/2016 07:03",
 		"reportRepository" : "BrunoBB 11/15/2016 07:00",
 		"rootDistribution" : "BrunoBB 10/29/2016 14:15",
@@ -49,4 +57,4 @@
 		"sumSecondsToConstruct:" : "BrunoBB 10/29/2016 14:15",
 		"svgContents" : "BrunoBB 10/29/2016 14:15",
 		"svgContents:" : "BrunoBB 10/29/2016 14:15",
-		"userName" : "BrunoBB 10/29/2016 14:15" } }
+		"userName" : "BrunoBB 11/21/2016 07:33" } }
