@@ -16,7 +16,7 @@ importCSVFile: pathFile
 		rowContent ifEmpty: [^AppInternationalizationException signal: 'Bad cell content translation format'].
 		targetTranslation := rowContent first.
 		rowContent allButFirst keysAndValuesDo: [:columnIndex :cellContent | | language |
-			language := (headers at: columnIndex + 1) asLowercase asSymbol.
+			language := (headers at: columnIndex + 1) trimBlanks asLowercase asSymbol.
 			(cellContent notNil and: [cellContent notEmpty])
 			ifTrue: [self translate: targetTranslation as: cellContent for: language].
 		].
