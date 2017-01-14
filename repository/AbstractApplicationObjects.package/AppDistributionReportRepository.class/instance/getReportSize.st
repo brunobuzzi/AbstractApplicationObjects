@@ -1,0 +1,4 @@
+other
+getReportSize
+
+	^reports size

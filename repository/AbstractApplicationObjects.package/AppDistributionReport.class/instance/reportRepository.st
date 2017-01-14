@@ -1,4 +1,4 @@
 other
 reportRepository
 
-	^AppDistributionReportRepository default
+	^self class reportRepository

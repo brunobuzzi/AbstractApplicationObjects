@@ -1,7 +1,11 @@
 {
 	"class" : {
+		"atIndex:ifAbsent:" : "BrunoBB 01/14/2017 09:31",
+		"cache" : "BrunoBB 01/14/2017 09:29",
 		"distribution:" : "BrunoBB 10/29/2016 14:15",
-		"getComboName" : "BrunoBB 11/19/2016 06:18" },
+		"getCacheSize" : "BrunoBB 01/14/2017 09:27",
+		"getComboName" : "BrunoBB 11/19/2016 06:18",
+		"reportRepository" : "BrunoBB 01/14/2017 09:26" },
 	"instance" : {
 		"addToCache" : "BrunoBB 11/15/2016 07:03",
 		"applicationName" : "BrunoBB 11/21/2016 03:27",
@@ -20,6 +24,7 @@
 		"endDate:" : "BrunoBB 10/29/2016 14:15",
 		"formName" : "BrunoBB 11/21/2016 04:44",
 		"getAverageTimeAsSeconds" : "BrunoBB 11/13/2016 10:06",
+		"getCacheSize" : "BrunoBB 01/14/2017 09:27",
 		"getDescriptionItems" : "BrunoBB 11/20/2016 10:46",
 		"getRootDistributionSize" : "BrunoBB 11/07/2016 06:46",
 		"getRootPercentageDistribution" : "BrunoBB 11/13/2016 10:07",
@@ -45,7 +50,7 @@
 		"printStartDate" : "BrunoBB 11/21/2016 03:05",
 		"processName" : "BrunoBB 11/21/2016 03:27",
 		"removeFromCache" : "BrunoBB 11/15/2016 07:03",
-		"reportRepository" : "BrunoBB 11/15/2016 07:00",
+		"reportRepository" : "BrunoBB 01/14/2017 09:26",
 		"rootDistribution" : "BrunoBB 10/29/2016 14:15",
 		"rootDistribution:" : "BrunoBB 10/29/2016 14:15",
 		"runDistribution" : "BrunoBB 10/29/2016 14:15",
