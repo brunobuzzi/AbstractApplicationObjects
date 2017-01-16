@@ -1,0 +1,4 @@
+other
+getShortScriptPath
+
+	self subclassResponsibility

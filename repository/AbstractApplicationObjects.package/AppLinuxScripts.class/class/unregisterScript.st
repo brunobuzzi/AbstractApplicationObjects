@@ -1,0 +1,4 @@
+scripts
+unregisterScript
+
+	ZnSeasideGemServer removeGemServerNamed: self getSystemName
