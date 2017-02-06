@@ -1,0 +1,12 @@
+{
+	"class" : {
+		"default" : "BrunoBB 09/03/2016 13:47",
+		"initializeDateFormat" : "BrunoBB 09/03/2016 13:46",
+		"initializeTimeFormat" : "BrunoBB 09/03/2016 13:46" },
+	"instance" : {
+		"dateFormat" : "BrunoBB 04/05/2016 15:13",
+		"dateFormat:" : "BrunoBB 04/05/2016 15:13",
+		"orbeonIP" : "BrunoBB 04/05/2016 15:13",
+		"orbeonIP:" : "BrunoBB 04/05/2016 15:13",
+		"timeFormat" : "BrunoBB 04/05/2016 15:13",
+		"timeFormat:" : "BrunoBB 04/05/2016 15:13" } }

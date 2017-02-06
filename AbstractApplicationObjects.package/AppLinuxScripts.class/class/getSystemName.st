@@ -1,0 +1,4 @@
+other
+getSystemName
+
+	self subclassResponsibility

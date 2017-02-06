@@ -1,0 +1,4 @@
+other
+getComboName
+
+	^'Basic Report'

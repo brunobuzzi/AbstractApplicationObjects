@@ -1,0 +1,4 @@
+other
+typeAbbreviation
+
+	^'[b]'

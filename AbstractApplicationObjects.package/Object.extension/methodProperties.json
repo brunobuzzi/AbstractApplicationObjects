@@ -1,0 +1,15 @@
+{
+	"class" : {
+		"getApplicationManagerClass" : "BrunoBB 02/08/2016 13:26",
+		"getApplicationsCache" : "BrunoBB 02/09/2016 13:18",
+		"getGemStoneServerConfiguration" : "BrunoBB 02/03/2016 09:22",
+		"getInternationalization" : "BrunoBB 02/09/2016 13:46",
+		"getOrbeonDatabaseConfiguration" : "BrunoBB 02/03/2016 08:53",
+		"getOrbeonWebServerConfiguration" : "BrunoBB 02/03/2016 10:07" },
+	"instance" : {
+		"getApplicationManagerClass" : "BrunoBB 02/08/2016 13:25",
+		"getApplicationsCache" : "BrunoBB 02/09/2016 13:17",
+		"getGemStoneServerConfiguration" : "BrunoBB 02/03/2016 09:23",
+		"getInternationalization" : "BrunoBB 02/09/2016 13:47",
+		"getOrbeonDatabaseConfiguration" : "BrunoBB 02/03/2016 08:53",
+		"getOrbeonWebServerConfiguration" : "BrunoBB 02/03/2016 08:44" } }

@@ -1,0 +1,22 @@
+{
+	"class" : {
+		"default" : "BrunoBB 11/14/2016 07:39",
+		"initializeDefault" : "BrunoBB 11/14/2016 07:39" },
+	"instance" : {
+		"addReport:" : "BrunoBB 11/14/2016 07:40",
+		"atIndex:ifAbsent:" : "BrunoBB 01/14/2017 09:32",
+		"getApplicationReportFor:" : "BrunoBB 11/19/2016 09:00",
+		"getGlobalReports" : "BrunoBB 11/19/2016 07:38",
+		"getProcessReportFor:" : "BrunoBB 11/19/2016 09:25",
+		"getProcessReportFor:formName:in:" : "BrunoBB 11/21/2016 04:45",
+		"getProcessReportFor:in:" : "BrunoBB 11/21/2016 03:29",
+		"getReportSize" : "BrunoBB 01/14/2017 09:25",
+		"getRoleReports" : "BrunoBB 11/19/2016 09:47",
+		"getRoleReportsFor:" : "BrunoBB 11/21/2016 04:52",
+		"getUserReports" : "BrunoBB 11/19/2016 09:48",
+		"getUserReportsFor:" : "BrunoBB 11/21/2016 07:33",
+		"initialize" : "BrunoBB 11/14/2016 07:39",
+		"removeReport:" : "BrunoBB 11/15/2016 07:02",
+		"removeReport:ifAbsent:" : "BrunoBB 11/15/2016 07:01",
+		"reports" : "BrunoBB 11/14/2016 07:38",
+		"reports:" : "BrunoBB 11/14/2016 07:38" } }

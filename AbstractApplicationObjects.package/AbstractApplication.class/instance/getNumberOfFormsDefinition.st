@@ -1,0 +1,4 @@
+other
+getNumberOfFormsDefinition
+
+	^0

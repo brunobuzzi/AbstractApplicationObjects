@@ -1,0 +1,3 @@
+translation collector
+currentCollector
+	^currentCollector

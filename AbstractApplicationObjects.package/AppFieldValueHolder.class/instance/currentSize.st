@@ -1,0 +1,4 @@
+other
+currentSize
+
+	^currentValues size

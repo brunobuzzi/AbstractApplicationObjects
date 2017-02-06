@@ -1,0 +1,4 @@
+functions
+getRootDistributionSize
+
+	^rootDistribution size

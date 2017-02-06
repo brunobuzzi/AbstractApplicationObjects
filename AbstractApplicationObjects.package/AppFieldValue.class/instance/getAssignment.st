@@ -1,0 +1,4 @@
+other
+getAssignment
+
+	^parentObject assignment

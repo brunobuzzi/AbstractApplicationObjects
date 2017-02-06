@@ -1,0 +1,14 @@
+{
+	"category" : "AbstractApplicationObjects",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "NoAppNameException",
+	"pools" : [
+		 ],
+	"super" : "AbstractApplicationException",
+	"type" : "normal" }

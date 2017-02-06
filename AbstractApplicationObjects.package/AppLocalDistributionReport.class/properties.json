@@ -1,0 +1,14 @@
+{
+	"category" : "AbstractApplicationObjects",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"applicationName" ],
+	"name" : "AppLocalDistributionReport",
+	"pools" : [
+		 ],
+	"super" : "AppDistributionReport",
+	"type" : "normal" }
