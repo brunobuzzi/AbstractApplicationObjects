@@ -1,4 +1,0 @@
-other
-getReportSize
-
-	^reports size

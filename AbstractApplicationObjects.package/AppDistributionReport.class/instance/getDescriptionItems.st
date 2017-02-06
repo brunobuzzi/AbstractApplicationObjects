@@ -1,4 +1,0 @@
-other
-getDescriptionItems
-
-	^Dictionary new

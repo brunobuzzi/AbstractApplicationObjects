@@ -1,4 +1,0 @@
-*abstractApplicationObjects
-getOrbeonWebServerConfiguration
-
-	^OrbeonServerConfiguration default

@@ -1,4 +1,0 @@
-other
-stType
-
-	^Boolean

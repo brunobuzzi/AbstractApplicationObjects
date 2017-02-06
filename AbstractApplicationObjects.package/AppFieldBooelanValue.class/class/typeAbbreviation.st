@@ -1,4 +1,0 @@
-other
-typeAbbreviation
-
-	^'[b]'

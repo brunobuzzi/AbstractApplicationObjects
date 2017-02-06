@@ -6,6 +6,6 @@ addToCache
 	applicationName ifNil: [^self throwExceptionNoApplicationName].
 	applicationName isEmpty ifTrue: [^self throwExceptionNoApplicationName].
 
-	(self cache includesKey: applicationName) ifTrue: [^self throwExceptionAlreadyInCache].
+	(self cache includesKey: applicationName) ifTrue: [^self cache at: applicationName].
 
 	^self cache at: applicationName put: self

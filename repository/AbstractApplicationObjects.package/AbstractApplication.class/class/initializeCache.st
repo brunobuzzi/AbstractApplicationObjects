@@ -4,6 +4,6 @@ initializeCache
 	Cache := Dictionary new.
 
 	"the default application"
-	((Smalltalk at: #OrbeonApplication ifAbsent: [Smalltalk at: #BpmApplication]) newNamed: 'admins') addToCache.
+	((Smalltalk at: #BpmApplication ifAbsent: [Smalltalk at: #OrbeonApplication]) newNamed: 'admins') addToCache.
 
 	^Cache

@@ -1,4 +1,0 @@
-other
-getShortScriptPath
-
-	self subclassResponsibility

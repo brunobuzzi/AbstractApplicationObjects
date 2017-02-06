@@ -1,4 +1,0 @@
-other
-getNumberOfFormsDefinition
-
-	^0

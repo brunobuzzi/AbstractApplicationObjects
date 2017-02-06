@@ -1,4 +1,0 @@
-functions
-getRootDistributionSize
-
-	^rootDistribution size

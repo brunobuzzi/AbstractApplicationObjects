@@ -1,4 +1,0 @@
-other
-stType
-
-	^self subclassResponsibility

@@ -1,4 +1,0 @@
-other
-currentSize
-
-	^currentValues size

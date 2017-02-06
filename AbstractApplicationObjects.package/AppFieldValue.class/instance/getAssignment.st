@@ -1,4 +1,0 @@
-other
-getAssignment
-
-	^parentObject assignment
