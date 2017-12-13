@@ -7,6 +7,7 @@
 		"getAnyApplicationNamed:" : "BrunoBB 02/25/2016 12:21",
 		"getAnyApplicationNamed:ifNone:" : "BrunoBB 02/25/2016 16:43",
 		"getBpmCache" : "BrunoBB 02/25/2016 12:21",
+		"getExistingApplicationOrCreateNewNamed:" : "brunobb 12/10/2017 18:08",
 		"getOrbeonCache" : "BrunoBB 02/25/2016 12:21",
 		"hasApplicationNamed:" : "BrunoBB 02/08/2016 13:53",
 		"initializeCache" : "BrunoBB 02/06/2017 13:53",
