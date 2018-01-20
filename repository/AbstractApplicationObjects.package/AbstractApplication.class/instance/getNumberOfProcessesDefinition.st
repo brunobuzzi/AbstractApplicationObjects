@@ -3,4 +3,4 @@ getNumberOfProcessesDefinition
 
 	(Smalltalk includesKey: #BpmProcessDefinition) ifFalse: [^0].
 
-	^(BpmProcessDefinition cacheAt: applicationName ifAbsent: [#()]) size
+	^((Smalltalk at: #BpmProcessDefinition) cacheAt: applicationName ifAbsent: [#()]) size
