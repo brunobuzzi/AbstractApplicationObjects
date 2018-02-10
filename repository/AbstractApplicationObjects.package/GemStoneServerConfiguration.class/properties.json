@@ -8,7 +8,8 @@
 	"instvars" : [
 		"gemstoneIP",
 		"loginModes",
-		"baseUrlDocumentation" ],
+		"baseUrlDocumentation",
+		"timersTimespan" ],
 	"name" : "GemStoneServerConfiguration",
 	"pools" : [
 		 ],
