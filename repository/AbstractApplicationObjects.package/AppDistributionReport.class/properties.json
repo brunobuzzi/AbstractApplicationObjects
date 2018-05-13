@@ -8,6 +8,9 @@
 	"instvars" : [
 		"name",
 		"description",
+		"seriesName",
+		"xTitle",
+		"yTitle",
 		"createdTime",
 		"secondsToConstruct",
 		"isClosed",
