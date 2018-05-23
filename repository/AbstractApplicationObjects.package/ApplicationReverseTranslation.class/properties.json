@@ -1,0 +1,14 @@
+{
+	"category" : "AbstractApplicationObjects",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"reverseTranslations" ],
+	"name" : "ApplicationReverseTranslation",
+	"pools" : [
+		 ],
+	"super" : "AbstractApplicationObject",
+	"type" : "normal" }

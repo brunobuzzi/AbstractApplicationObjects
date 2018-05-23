@@ -1,0 +1,10 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"atTransatedString:put:" : "brunobb 05/23/2018 10:09",
+		"getOriginalStringFrom:" : "brunobb 05/23/2018 11:11",
+		"getOriginalStringFrom:ifAbsent:" : "brunobb 05/23/2018 10:09",
+		"initialize" : "brunobb 05/23/2018 10:05",
+		"reverseTranslations" : "brunobb 05/23/2018 10:05",
+		"reverseTranslations:" : "brunobb 05/23/2018 10:05" } }
