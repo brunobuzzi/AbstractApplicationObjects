@@ -20,7 +20,8 @@
 		"distributionMethod",
 		"conditionStringBlock",
 		"svgContents",
-		"creator" ],
+		"creator",
+		"categories" ],
 	"name" : "AppDistributionReport",
 	"pools" : [
 		 ],
