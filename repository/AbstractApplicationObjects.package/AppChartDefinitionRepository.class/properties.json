@@ -1,0 +1,14 @@
+{
+	"category" : "AbstractApplicationObjects",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"Default" ],
+	"commentStamp" : "",
+	"instvars" : [
+		"userChartDefinitions" ],
+	"name" : "AppChartDefinitionRepository",
+	"pools" : [
+		 ],
+	"super" : "AbstractApplicationObject",
+	"type" : "normal" }
