@@ -1,0 +1,15 @@
+{
+	"category" : "AbstractApplicationObjects",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"report",
+		"timeStamp" ],
+	"name" : "AppSavedDistributionReport",
+	"pools" : [
+		 ],
+	"super" : "AbstractApplicationObject",
+	"type" : "normal" }

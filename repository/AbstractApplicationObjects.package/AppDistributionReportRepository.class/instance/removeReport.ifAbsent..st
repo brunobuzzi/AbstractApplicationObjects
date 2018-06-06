@@ -1,4 +1,7 @@
-other
+adding removing
 removeReport: anAppDistributionReport ifAbsent: aBlock
+	| savedReport |
 
-	^reports remove: anAppDistributionReport ifAbsent: aBlock
+	savedReport := reports detect: [:each | each report == anAppDistributionReport] ifNone: [^aBlock value].
+ 
+	^reports remove: savedReport ifAbsent: aBlock

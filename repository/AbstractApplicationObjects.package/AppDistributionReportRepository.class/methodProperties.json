@@ -16,7 +16,7 @@
 		"getUserReports" : "BrunoBB 11/19/2016 09:48",
 		"getUserReportsFor:" : "BrunoBB 11/21/2016 07:33",
 		"initialize" : "BrunoBB 11/14/2016 07:39",
-		"removeReport:" : "BrunoBB 11/15/2016 07:02",
-		"removeReport:ifAbsent:" : "BrunoBB 11/15/2016 07:01",
+		"removeReport:" : "brunobb 06/06/2018 10:31",
+		"removeReport:ifAbsent:" : "brunobb 06/06/2018 10:31",
 		"reports" : "BrunoBB 11/14/2016 07:38",
 		"reports:" : "BrunoBB 11/14/2016 07:38" } }

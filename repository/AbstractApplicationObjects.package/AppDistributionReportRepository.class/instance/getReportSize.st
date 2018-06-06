@@ -1,4 +1,4 @@
-other
+queries
 getReportSize
 
 	^reports size

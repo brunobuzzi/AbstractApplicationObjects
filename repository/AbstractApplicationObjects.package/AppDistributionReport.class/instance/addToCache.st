@@ -1,4 +1,4 @@
 other
 addToCache
 
-	^self reportRepository addReport: self
+	^self reportRepository addReport: self asSavedReport

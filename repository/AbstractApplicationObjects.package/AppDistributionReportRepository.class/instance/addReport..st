@@ -1,4 +1,4 @@
-other
+adding removing
 addReport: anAppDistributionReport
 
 	^reports add: anAppDistributionReport
