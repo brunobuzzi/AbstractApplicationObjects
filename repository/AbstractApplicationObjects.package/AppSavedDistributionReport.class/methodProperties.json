@@ -2,6 +2,12 @@
 	"class" : {
 		 },
 	"instance" : {
+		"addCategory:" : "brunobb 06/06/2018 10:46",
+		"asSavedReport" : "brunobb 06/06/2018 10:45",
+		"categories" : "brunobb 06/06/2018 10:45",
+		"categories:" : "brunobb 06/06/2018 10:45",
+		"initialize" : "brunobb 06/06/2018 10:45",
+		"removeCategory:" : "brunobb 06/06/2018 10:46",
 		"report" : "brunobb 06/06/2018 10:22",
 		"report:" : "brunobb 06/06/2018 10:22",
 		"timeStamp" : "brunobb 06/06/2018 10:22",

@@ -1,4 +1,4 @@
-other
+repository
 reportRepository
 
 	^self class reportRepository

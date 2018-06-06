@@ -1,4 +1,4 @@
 adding removing
 addReport: anAppDistributionReport
 
-	^reports add: anAppDistributionReport
+	^reports add: anAppDistributionReport asSavedReport

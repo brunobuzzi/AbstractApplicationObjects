@@ -1,4 +1,4 @@
-other
+repository
 asSavedReport
 
 	^AppSavedDistributionReport new

@@ -3,8 +3,10 @@
 		"default" : "BrunoBB 11/14/2016 07:39",
 		"initializeDefault" : "BrunoBB 11/14/2016 07:39" },
 	"instance" : {
-		"addReport:" : "BrunoBB 11/14/2016 07:40",
+		"addReport:" : "brunobb 06/06/2018 10:42",
+		"addSavedReport:" : "brunobb 06/06/2018 10:43",
 		"atIndex:ifAbsent:" : "BrunoBB 01/14/2017 09:32",
+		"getAllCategories" : "brunobb 06/06/2018 10:47",
 		"getApplicationReportFor:" : "BrunoBB 11/19/2016 09:00",
 		"getGlobalReports" : "BrunoBB 11/19/2016 07:38",
 		"getProcessReportFor:" : "BrunoBB 11/19/2016 09:25",
@@ -18,5 +20,7 @@
 		"initialize" : "BrunoBB 11/14/2016 07:39",
 		"removeReport:" : "brunobb 06/06/2018 10:31",
 		"removeReport:ifAbsent:" : "brunobb 06/06/2018 10:31",
+		"removeSavedReport:" : "brunobb 06/06/2018 10:44",
+		"removeSavedReport:ifAbsent:" : "brunobb 06/06/2018 10:44",
 		"reports" : "BrunoBB 11/14/2016 07:38",
 		"reports:" : "BrunoBB 11/14/2016 07:38" } }

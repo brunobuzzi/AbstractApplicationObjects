@@ -7,7 +7,8 @@
 	"commentStamp" : "",
 	"instvars" : [
 		"report",
-		"timeStamp" ],
+		"timeStamp",
+		"categories" ],
 	"name" : "AppSavedDistributionReport",
 	"pools" : [
 		 ],
