@@ -3,4 +3,4 @@ initialize
 
 	super initialize.
 
-	userChartDefinitions := RcIdentityBag new.
+	userChartDefinitions := Dictionary new.

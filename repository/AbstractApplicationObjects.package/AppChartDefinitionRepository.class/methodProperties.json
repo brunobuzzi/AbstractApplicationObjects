@@ -4,7 +4,7 @@
 		"initializeDefault" : "brunobb 06/06/2018 11:58" },
 	"instance" : {
 		"getChartsFor:" : "brunobb 06/06/2018 12:08",
-		"initialize" : "brunobb 06/06/2018 11:58",
+		"initialize" : "brunobb 06/06/2018 12:35",
 		"remove:" : "brunobb 06/06/2018 12:07",
 		"remove:ifAbsent:" : "brunobb 06/06/2018 12:07",
 		"store:" : "brunobb 06/06/2018 12:04",
