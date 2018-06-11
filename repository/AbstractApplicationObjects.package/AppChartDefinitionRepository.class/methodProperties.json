@@ -4,7 +4,8 @@
 		"initializeDefault" : "brunobb 06/06/2018 11:58" },
 	"instance" : {
 		"getChartsFor:" : "brunobb 06/06/2018 12:08",
-		"getChartsFor:withScope:" : "brunobb 06/07/2018 10:28",
+		"getChartsFor:withScope:" : "brunobb 06/11/2018 08:41",
+		"getChartsFor:withScope:satisfying:" : "brunobb 06/11/2018 08:40",
 		"initialize" : "brunobb 06/06/2018 12:35",
 		"remove:" : "brunobb 06/06/2018 12:07",
 		"remove:ifAbsent:" : "brunobb 06/06/2018 12:07",
