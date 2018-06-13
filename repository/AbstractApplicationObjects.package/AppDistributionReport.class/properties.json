@@ -21,7 +21,9 @@
 		"conditionStringBlock",
 		"svgContents",
 		"creator",
-		"categories" ],
+		"categories",
+		"xAxisIsDate",
+		"xAxisIsTime" ],
 	"name" : "AppDistributionReport",
 	"pools" : [
 		 ],
