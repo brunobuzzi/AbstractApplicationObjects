@@ -1,4 +1,4 @@
-other
+distributions
 getDistributionSize
 
 	^rootDistribution size

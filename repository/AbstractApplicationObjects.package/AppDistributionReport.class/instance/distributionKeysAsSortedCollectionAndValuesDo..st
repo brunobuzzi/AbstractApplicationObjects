@@ -1,4 +1,4 @@
-other
+distributions
 distributionKeysAsSortedCollectionAndValuesDo: aBlock
 	| orderedKeys |
 

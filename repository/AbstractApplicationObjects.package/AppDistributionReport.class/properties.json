@@ -19,11 +19,11 @@
 		"endDate",
 		"distributionMethod",
 		"conditionStringBlock",
-		"svgContents",
 		"creator",
 		"categories",
 		"xAxisIsDate",
-		"xAxisIsTime" ],
+		"xAxisIsTime",
+		"secondaryDistributions" ],
 	"name" : "AppDistributionReport",
 	"pools" : [
 		 ],

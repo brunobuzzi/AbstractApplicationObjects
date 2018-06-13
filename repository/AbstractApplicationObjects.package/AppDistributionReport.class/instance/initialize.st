@@ -9,5 +9,6 @@ initialize
 	secondsToConstruct := 0.
 	isClosed := false.
 	rootDistribution := OrderPreservingDictionary new.
+	secondaryDistributions := Dictionary new.
 	xAxisIsDate := false.
 	xAxisIsTime := false.

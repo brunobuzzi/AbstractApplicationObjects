@@ -1,4 +1,4 @@
-other
+distributions
 getAverageTimeAsSeconds
 
 	self getRootDistributionSize isZero ifTrue: [^0].
