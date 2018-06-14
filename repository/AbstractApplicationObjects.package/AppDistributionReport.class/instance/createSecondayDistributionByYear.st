@@ -15,4 +15,4 @@ createSecondayDistributionByYear
 		yearDistribution at: newKey put: (sumValue + numberValue)
 	].
 
-	^yearDistribution
+	^secondaryDistributions at: 'Year' put: yearDistribution

@@ -15,4 +15,4 @@ createSecondayDistributionByMonth
 		monthDistribution at: newKey put: (sumValue + numberValue)
 	].
 
-	^monthDistribution
+	^secondaryDistributions at: 'Month' put: monthDistribution
