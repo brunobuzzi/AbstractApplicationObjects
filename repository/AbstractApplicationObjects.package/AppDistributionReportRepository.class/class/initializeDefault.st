@@ -1,4 +1,4 @@
 other
 initializeDefault
 
-	Default := super new.
+	Default := super new initialize.

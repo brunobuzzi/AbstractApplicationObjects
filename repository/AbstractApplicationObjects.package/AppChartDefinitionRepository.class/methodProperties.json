@@ -1,7 +1,7 @@
 {
 	"class" : {
 		"default" : "brunobb 06/06/2018 11:58",
-		"initializeDefault" : "brunobb 06/06/2018 11:58" },
+		"initializeDefault" : "brunobb 07/03/2018 05:33" },
 	"instance" : {
 		"getChartsFor:" : "brunobb 06/06/2018 12:08",
 		"getChartsFor:withScope:" : "brunobb 06/11/2018 08:41",
