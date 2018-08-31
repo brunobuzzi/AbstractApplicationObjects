@@ -6,7 +6,8 @@
 		"Cache" ],
 	"commentStamp" : "",
 	"instvars" : [
-		"applicationName" ],
+		"applicationName",
+		"bpmEnvironment" ],
 	"name" : "AbstractApplication",
 	"pools" : [
 		 ],
