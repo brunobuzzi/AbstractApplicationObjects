@@ -3,12 +3,12 @@
 		"default" : "brunobb 06/06/2018 11:58",
 		"initializeDefault" : "brunobb 07/03/2018 05:33" },
 	"instance" : {
-		"getChartsFor:" : "brunobb 06/06/2018 12:08",
-		"getChartsFor:withScope:" : "brunobb 06/11/2018 08:41",
-		"getChartsFor:withScope:satisfying:" : "brunobb 06/11/2018 08:40",
+		"getChartsIn:for:" : "brunobb 09/19/2018 07:58",
+		"getChartsIn:for:withScope:" : "brunobb 09/19/2018 07:57",
+		"getChartsIn:for:withScope:satisfying:" : "brunobb 09/19/2018 07:58",
 		"initialize" : "brunobb 06/06/2018 12:35",
 		"remove:" : "brunobb 06/06/2018 12:07",
-		"remove:ifAbsent:" : "brunobb 06/06/2018 12:07",
-		"store:" : "brunobb 06/06/2018 12:04",
+		"remove:ifAbsent:" : "brunobb 09/19/2018 07:53",
+		"store:" : "brunobb 09/19/2018 07:53",
 		"userChartDefinitions" : "brunobb 06/06/2018 11:58",
 		"userChartDefinitions:" : "brunobb 06/06/2018 11:58" } }
