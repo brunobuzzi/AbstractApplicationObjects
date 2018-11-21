@@ -1,4 +1,4 @@
 scripts
 stopAllScript
 
-	^(ZnSeasideGemServer gemServerNamed: self getSystemName) stopGems
+	^(ZnSeasideNewGemServer gemServerNamed: self getSystemName) stopGems
