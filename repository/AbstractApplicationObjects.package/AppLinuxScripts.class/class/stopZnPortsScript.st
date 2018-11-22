@@ -6,6 +6,6 @@ stopZnPortsScript
 	ports := ((portsStream contents trimBlanks subStrings: ',') collect: [:each | Number fromString: each]) asArray.
 	portsStream close.
 
-	server := ZnSeasideGemServer gemServerNamed: self getSystemName.
+	server := ZnSeasideNewGemServer gemServerNamed: self getSystemName.
 
 	ports do: [:port | server executeStopGemCommand: port].
