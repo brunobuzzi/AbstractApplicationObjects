@@ -7,11 +7,11 @@
 		"getStartZnPortsFilePath" : "BrunoBB 01/16/2017 07:48",
 		"getStopZnPortsFilePath" : "BrunoBB 01/16/2017 07:48",
 		"getSystemName" : "BrunoBB 01/16/2017 08:04",
-		"registerScript" : "brunobb 11/21/2018 09:06",
-		"startAllScript" : "brunobb 11/21/2018 09:05",
-		"startZnPortsScript" : "brunobb 11/21/2018 09:05",
-		"stopAllScript" : "brunobb 11/21/2018 09:06",
-		"stopZnPortsScript" : "brunobb 11/21/2018 09:06",
-		"unregisterScript" : "brunobb 11/21/2018 09:06" },
+		"registerScript" : "BrunoBB 01/16/2017 08:21",
+		"startAllScript" : "BrunoBB 01/16/2017 08:08",
+		"startZnPortsScript" : "BrunoBB 01/16/2017 09:09",
+		"stopAllScript" : "BrunoBB 01/16/2017 08:09",
+		"stopZnPortsScript" : "BrunoBB 01/16/2017 09:11",
+		"unregisterScript" : "BrunoBB 01/16/2017 08:21" },
 	"instance" : {
 		 } }

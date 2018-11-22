@@ -6,4 +6,4 @@ resetPassword
 	random := Lag1MwcRandom new integer printString.
 	randomHash := random hash printString.
 
-	password := random, '-', randomHash
+	self password: (random, '-', randomHash)

@@ -1,4 +1,4 @@
 scripts
 startAllScript
 
-	^(ZnSeasideNewGemServer gemServerNamed: self getSystemName) startGems
+	^(ZnSeasideGemServer gemServerNamed: self getSystemName) startGems

@@ -6,4 +6,4 @@ startZnPortsScript
 	ports := ((portsStream contents trimBlanks subStrings: ',') collect: [:each | Number fromString: each]) asArray.
 	portsStream close.
 
-	ports do: [:port | (ZnSeasideNewGemServer gemServerNamed: self getSystemName) executeStartGemCommand: port].
+	ports do: [:port | (ZnSeasideGemServer gemServerNamed: self getSystemName) executeStartGemCommand: port].
