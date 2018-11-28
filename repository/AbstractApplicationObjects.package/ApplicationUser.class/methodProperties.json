@@ -1,7 +1,7 @@
 {
 	"class" : {
 		"cache" : "BrunoBB 12/20/2015 11:16",
-		"getExistingOrNewUserNamed:" : "BrunoBB 12/20/2015 11:37",
+		"getExistingOrNewUserNamed:" : "brunobb 11/28/2018 11:14",
 		"getUserNamed:" : "BrunoBB 12/20/2015 11:17",
 		"initializeCache" : "BrunoBB 12/20/2015 11:16",
 		"newUserNamed:password:" : "BrunoBB 12/20/2015 11:26" },
