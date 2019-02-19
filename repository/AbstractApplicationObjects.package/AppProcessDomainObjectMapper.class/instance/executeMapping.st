@@ -1,0 +1,4 @@
+other
+executeMapping
+
+	self subclassResponsibility
