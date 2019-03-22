@@ -1,0 +1,4 @@
+*abstractApplicationObjects
+defaultApplicationUserClass
+
+	^ApplicationUser
