@@ -2,4 +2,4 @@
 getApplicationsCache
 	"The receiver answer a collection with all applications"
 
-	^self getApplicationManagerClass cache
+	^self defaultApplicationManagerClass cache

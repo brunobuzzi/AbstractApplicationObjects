@@ -1,13 +1,13 @@
 {
 	"class" : {
+		"defaultApplicationManagerClass" : "brunobb 03/25/2019 07:53",
 		"defaultApplicationUserClass" : "brunobb 03/22/2019 11:58",
-		"getApplicationManagerClass" : "BrunoBB 02/08/2016 13:26",
-		"getApplicationsCache" : "BrunoBB 02/09/2016 13:18",
+		"getApplicationsCache" : "brunobb 03/25/2019 07:56",
 		"getGemStoneServerConfiguration" : "BrunoBB 02/03/2016 09:22",
 		"getInternationalization" : "BrunoBB 02/09/2016 13:46" },
 	"instance" : {
+		"defaultApplicationManagerClass" : "brunobb 03/25/2019 07:53",
 		"defaultApplicationUserClass" : "brunobb 03/22/2019 11:58",
-		"getApplicationManagerClass" : "BrunoBB 02/08/2016 13:25",
 		"getApplicationsCache" : "BrunoBB 02/09/2016 13:17",
 		"getGemStoneServerConfiguration" : "BrunoBB 02/03/2016 09:23",
 		"getInternationalization" : "BrunoBB 02/09/2016 13:47" } }
