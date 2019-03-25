@@ -2,4 +2,4 @@
 defaultApplicationManagerClass
 	"The receiver answer the class used as applications manager"
 
-	^self class getApplicationManagerClass
+	^self class defaultApplicationManagerClass
