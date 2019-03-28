@@ -1,4 +1,4 @@
-other
+mapping
 executeMapping
 
 	self subclassResponsibility

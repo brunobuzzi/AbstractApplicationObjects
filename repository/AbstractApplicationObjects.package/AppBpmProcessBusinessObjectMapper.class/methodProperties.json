@@ -4,4 +4,6 @@
 	"instance" : {
 		"bpmProcessInstance" : "brunobb 02/21/2019 02:13",
 		"bpmProcessInstance:" : "brunobb 02/21/2019 02:13",
-		"executeMapping" : "brunobb 02/21/2019 02:13" } }
+		"executeMapping" : "brunobb 02/21/2019 02:13",
+		"getMappingMethodFor:" : "brunobb 03/27/2019 12:36",
+		"getMappingMethodFor:ifAbsent:" : "brunobb 03/27/2019 12:36" } }
