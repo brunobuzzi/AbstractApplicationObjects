@@ -6,4 +6,4 @@ printOn: aStream
 
 	tempValue := (value class == String) ifTrue: [value] ifFalse: [value printString].
 	
-	aStream nextPutAll: '[', tempValue, ']'
+	aStream nextPutAll: '[',name,' ', tempValue, ']'
