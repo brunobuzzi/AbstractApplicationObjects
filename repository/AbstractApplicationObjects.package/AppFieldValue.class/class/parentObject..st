@@ -1,4 +1,4 @@
-other
+instance creation
 parentObject: anObject
 
 	^super new initialize

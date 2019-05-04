@@ -1,4 +1,4 @@
-other
+types
 typeAbbreviation
 
 	^self subclassResponsibility

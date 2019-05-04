@@ -8,4 +8,4 @@ processFieldValueCollection: fieldValueCollection withFieldClass: formFieldValue
 	^self processFieldValueCollection: fieldValueCollection 
 			withFieldClass: formFieldValueClass 
 			in: anOrbeonFormInstance 
-			isStObject: false
+			isStObject: true "see issue #208"

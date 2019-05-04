@@ -8,6 +8,7 @@ updateAndAddCurrentFieldValuesWith: fieldValueCollection fieldClass: formFieldVa
 	"create the new neccesary objects with class type <formFieldValueClass> and add it to <toAdd> and <currentValues>"
 	1 to: (fieldValueCollection size - currentValues size) do:[:index | | newFormFieldValue | 
 		newFormFieldValue := formFieldValueClass parentObject: anOrbeonFormInstance name: fieldName value: nil.
+		newFormFieldValue originalValueIsStObject: true. "see issue #208"
 		toAdd add: newFormFieldValue.
 		currentValues add: newFormFieldValue].
 

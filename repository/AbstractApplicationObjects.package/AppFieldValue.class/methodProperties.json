@@ -1,5 +1,6 @@
 {
 	"class" : {
+		"convertToStValue:" : "brunobb 05/03/2019 17:59",
 		"getTypeOfFieldNamed:" : "BrunoBB 04/23/2016 13:00",
 		"parentObject:" : "BrunoBB 02/16/2016 12:51",
 		"parentObject:name:value:" : "BrunoBB 02/16/2016 12:51",
@@ -16,7 +17,7 @@
 		"getAssignment" : "BrunoBB 02/18/2016 11:56",
 		"getKeyName" : "BrunoBB 04/20/2016 16:34",
 		"getProcess" : "brunobb 02/05/2018 14:25",
-		"initialize" : "BrunoBB 02/16/2016 12:51",
+		"initialize" : "brunobb 05/03/2019 13:22",
 		"name" : "BrunoBB 02/16/2016 12:51",
 		"name:" : "BrunoBB 02/16/2016 12:51",
 		"originalValue" : "BrunoBB 02/16/2016 12:51",

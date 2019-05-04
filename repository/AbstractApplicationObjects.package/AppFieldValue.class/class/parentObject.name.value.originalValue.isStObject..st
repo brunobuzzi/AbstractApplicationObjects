@@ -1,4 +1,4 @@
-other
+instance creation
 parentObject: anObject name: stringName value: stringValue originalValue: originalValue isStObject: aBoolean
 
 	^super new initialize

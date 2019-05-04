@@ -1,0 +1,14 @@
+{
+	"category" : "AbstractApplicationObjectsTests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "AppFieldTimeStampValueTest",
+	"pools" : [
+		 ],
+	"super" : "AppFieldValueTest",
+	"type" : "normal" }
