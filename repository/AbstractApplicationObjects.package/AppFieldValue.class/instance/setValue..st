@@ -5,8 +5,8 @@ setValue: newValue
 	If <newValue> is <nil> or empty then <value> is set with <nil>.
 	Finally the <String> value is converted to a Smalltalk object"
 
-	newValue ifNil: [^value := newValue].
 	originalValueIsStObject ifTrue: [^value := newValue].
+	newValue ifNil: [^value := newValue].
 	newValue ifEmpty: [^value := nil].
 
 	self convertValue: newValue.
