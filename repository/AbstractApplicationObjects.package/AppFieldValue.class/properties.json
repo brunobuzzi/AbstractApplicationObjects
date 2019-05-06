@@ -12,7 +12,8 @@
 		"parentObject",
 		"errorString",
 		"format",
-		"originalValueIsStObject" ],
+		"originalValueIsStObject",
+		"holder" ],
 	"name" : "AppFieldValue",
 	"pools" : [
 		 ],
