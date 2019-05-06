@@ -1,0 +1,4 @@
+convert
+newHolderForStringToSmalltalkConvertion
+
+	^AppFieldValueHolder new originalValueIsStObject: false; yourself

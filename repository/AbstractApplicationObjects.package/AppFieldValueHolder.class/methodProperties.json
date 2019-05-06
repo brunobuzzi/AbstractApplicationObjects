@@ -1,6 +1,7 @@
 {
 	"class" : {
-		"parentObject:forFieldNamed:" : "brunobb 05/06/2019 07:26" },
+		"newWithConvertionFor:forFieldNamed:" : "brunobb 05/06/2019 08:18",
+		"newWithNoConvertionFor:forFieldNamed:" : "brunobb 05/06/2019 08:18" },
 	"instance" : {
 		"alreadyAddedToFormDefinition" : "brunobb 05/06/2019 07:26",
 		"alreadyAddedToFormDefinition:" : "brunobb 05/06/2019 07:26",
@@ -18,16 +19,16 @@
 		"hasCurrentValue:" : "brunobb 05/06/2019 07:26",
 		"hasElementsToAdd" : "brunobb 05/06/2019 07:26",
 		"hasElementsToRemove" : "brunobb 05/06/2019 07:26",
-		"initialize" : "brunobb 05/06/2019 07:26",
+		"initialize" : "brunobb 05/06/2019 07:54",
 		"originalValueIsStObject" : "brunobb 05/06/2019 07:26",
 		"originalValueIsStObject:" : "brunobb 05/06/2019 07:26",
 		"parentObject" : "brunobb 05/06/2019 07:26",
 		"parentObject:" : "brunobb 05/06/2019 07:26",
-		"processFieldValueCollection:withFieldClass:in:isStObject:" : "brunobb 05/06/2019 07:26",
+		"processFieldValueCollection:withFieldClass:in:isStObject:" : "brunobb 05/06/2019 08:14",
 		"toAdd" : "brunobb 05/06/2019 07:26",
 		"toAdd:" : "brunobb 05/06/2019 07:26",
 		"toRemove" : "brunobb 05/06/2019 07:26",
 		"toRemove:" : "brunobb 05/06/2019 07:26",
-		"updateAndAddCurrentFieldValuesWith:fieldClass:form:" : "brunobb 05/06/2019 07:26",
+		"updateAndAddCurrentFieldValuesWith:fieldClass:form:" : "brunobb 05/06/2019 08:13",
 		"updateAndRemoveCurrentFieldValuesWith:" : "brunobb 05/06/2019 07:26",
 		"updateEqualCurrentFieldValuesWith:" : "brunobb 05/06/2019 07:26" } }

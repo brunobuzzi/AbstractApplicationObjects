@@ -1,10 +1,10 @@
 instance creation
-parentObject: anObject name: stringName value: stringValue originalValue: originalValue isStObject: aBoolean
+newOn: anAppFieldValueHolder parentObject: anObject name: stringName value: stringValue originalValue: originalValue
 
 	^super new initialize
+		holder: anAppFieldValueHolder;
 		parentObject: anObject;
 		name: stringName;
-		originalValueIsStObject: aBoolean;
 		setValue: stringValue;
 		originalValue: originalValue;
 		yourself

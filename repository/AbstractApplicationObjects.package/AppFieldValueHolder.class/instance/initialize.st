@@ -8,6 +8,7 @@ initialize
 	toRemove := OrderedCollection new.
 	alreadyAddedToFormDefinition := false.
 	alreadyAddedToProcessDefinition := false.
+	originalValueIsStObject := true.
 " 
 fieldName			- name of the field that the receiver is holding.
 currentValues		- a collection of FormFieldValue with the current values of the form.

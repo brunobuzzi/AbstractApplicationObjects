@@ -10,7 +10,7 @@ processFieldValueCollection: fieldValueCollection withFieldClass: formFieldValue
 
 	currentValues isEmpty "first time the values are processed (never processed before)"
 	ifTrue: [^fieldValueCollection do: [:eachValue | | fieldValue |
-					fieldValue := formFieldValueClass parentObject: anOrbeonFormInstance name: fieldName value: eachValue isStObject: aBoolean. "Create aAppFieldValue"
+					fieldValue := formFieldValueClass newOn: self parentObject: anOrbeonFormInstance name: fieldName value: eachValue. "Create aAppFieldValue"
 					currentValues add: fieldValue]
 	].
 
