@@ -1,4 +1,4 @@
-other
+cache
 cache
 
 	^self class cache

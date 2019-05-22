@@ -1,4 +1,4 @@
-other
+cache
 getOrbeonCache
 
 	^self class getOrbeonCache
