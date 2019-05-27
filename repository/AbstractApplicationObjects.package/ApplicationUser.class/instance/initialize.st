@@ -4,4 +4,4 @@ initialize
 	super initialize.
 
 	username := ''.
-	password := ''.
+	password := ' '.
