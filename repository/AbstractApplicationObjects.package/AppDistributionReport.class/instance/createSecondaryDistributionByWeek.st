@@ -1,5 +1,5 @@
 distributions
-createSecondayDistributionByWeek
+createSecondaryDistributionByWeek
 	| weekDistribution |
 
 	xAxisIsDate ifFalse: [DistributionKeysException signal: 'Keys of the Distribution are not valid Dates'].

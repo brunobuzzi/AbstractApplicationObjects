@@ -1,5 +1,5 @@
 distributions
-createSecondayDistributionByYear
+createSecondaryDistributionByYear
 	| yearDistribution |
 
 	xAxisIsDate ifFalse: [DistributionKeysException signal: 'Keys of the Distribution are not valid Dates'].
