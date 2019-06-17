@@ -5,6 +5,7 @@
 	"classvars" : [
 		"Countries",
 		"FemaleNames",
+		"Industries",
 		"MaleNames",
 		"Surnames" ],
 	"commentStamp" : "",
