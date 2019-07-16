@@ -1,0 +1,4 @@
+other
+valueAsString
+
+	^value printString
