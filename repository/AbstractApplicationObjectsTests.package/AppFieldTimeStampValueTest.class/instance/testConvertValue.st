@@ -5,8 +5,4 @@ testConvertValue
 
 	self assert: (AppFieldTimeStampValue convertToStValue: '2017-11-11T12:45') equals: (TimeStamp fromString: '11/11/2017 12:45').
 
-	"there is a GemStone bug here see:
-	http://forum.world.st/Exception-converting-aString-to-Time-td5098910.html
-	this should fail"
-
 	self should: [[AppFieldTimeStampValue convertToStValue: 'hello'] on: Exception do:[:ex | ex pass]] raise: FieldValueConvertionException
