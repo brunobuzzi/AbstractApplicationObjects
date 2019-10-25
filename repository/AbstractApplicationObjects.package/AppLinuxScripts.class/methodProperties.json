@@ -9,9 +9,11 @@
 		"getSystemName" : "BrunoBB 01/16/2017 08:04",
 		"registerScript" : "brunobb 11/22/2018 02:50",
 		"startAllScript" : "brunobb 11/22/2018 02:50",
-		"startZnPortsScript" : "brunobb 11/22/2018 02:50",
+		"startOnPortScript:" : "brunobb 10/25/2019 08:01",
+		"startZnPortsScript" : "brunobb 10/25/2019 07:54",
 		"stopAllScript" : "brunobb 11/22/2018 02:50",
-		"stopZnPortsScript" : "brunobb 11/22/2018 02:50",
+		"stopOnPortScript:" : "brunobb 10/25/2019 08:02",
+		"stopZnPortsScript" : "brunobb 10/25/2019 07:54",
 		"unregisterScript" : "brunobb 11/22/2018 02:50" },
 	"instance" : {
 		 } }
