@@ -1,4 +1,4 @@
-other
+system name
 getSystemName
 
 	self subclassResponsibility

@@ -1,4 +1,4 @@
-other
+ports handling
 getStopZnPortsFilePath
 
-	^self currentPath, '/zn-ports.ini'
+	^self currentPath, '/scripts/zn-ports.ini'

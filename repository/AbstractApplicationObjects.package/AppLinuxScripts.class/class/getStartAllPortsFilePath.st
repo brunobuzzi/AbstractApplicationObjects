@@ -1,4 +1,4 @@
-other
+ports handling
 getStartAllPortsFilePath
 
-	^self currentPath, '/ports-all.ini'
+	^self currentPath, '/scripts/ports-all.ini'

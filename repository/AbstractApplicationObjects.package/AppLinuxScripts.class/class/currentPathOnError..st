@@ -1,4 +1,4 @@
-other
+path
 currentPathOnError: aBlock
 	| currentPath |
 
