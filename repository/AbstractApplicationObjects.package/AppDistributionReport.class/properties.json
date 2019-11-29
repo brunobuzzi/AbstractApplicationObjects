@@ -23,7 +23,8 @@
 		"categories",
 		"xAxisIsDate",
 		"xAxisIsTime",
-		"secondaryDistributions" ],
+		"secondaryDistributions",
+		"exception" ],
 	"name" : "AppDistributionReport",
 	"pools" : [
 		 ],
