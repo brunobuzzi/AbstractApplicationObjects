@@ -7,7 +7,9 @@
 	"commentStamp" : "",
 	"instvars" : [
 		"applicationName",
-		"bpmEnvironment" ],
+		"bpmEnvironment",
+		"frontofficeRoles",
+		"backofficeRoles" ],
 	"name" : "AbstractApplication",
 	"pools" : [
 		 ],
