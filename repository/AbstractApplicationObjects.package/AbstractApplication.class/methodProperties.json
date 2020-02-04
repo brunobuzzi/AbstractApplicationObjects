@@ -10,6 +10,7 @@
 		"getBpmCache" : "brunobb 02/04/2020 07:55",
 		"getExistingApplicationOrCreateNewNamed:" : "brunobb 02/04/2020 07:55",
 		"getOrbeonCache" : "brunobb 02/04/2020 07:55",
+		"getRolesInAppName:" : "brunobb 02/04/2020 10:31",
 		"hasApplicationNamed:" : "brunobb 02/04/2020 07:55",
 		"initializeCache" : "brunobb 02/04/2020 07:55",
 		"newNamed:" : "brunobb 02/04/2020 07:55" },
