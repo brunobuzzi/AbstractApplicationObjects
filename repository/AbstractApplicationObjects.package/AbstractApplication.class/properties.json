@@ -9,7 +9,8 @@
 		"applicationName",
 		"bpmEnvironment",
 		"frontofficeRoles",
-		"backofficeRoles" ],
+		"backofficeRoles",
+		"processesDefinitions" ],
 	"name" : "AbstractApplication",
 	"pools" : [
 		 ],
