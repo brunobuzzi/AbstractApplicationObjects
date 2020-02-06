@@ -10,7 +10,10 @@
 		"bpmEnvironment",
 		"frontofficeRoles",
 		"backofficeRoles",
-		"processesDefinitions" ],
+		"processesDefinitions",
+		"availableTasksMatrix",
+		"finishedTasksMatrix",
+		"takenTasksMatrix" ],
 	"name" : "AbstractApplication",
 	"pools" : [
 		 ],
