@@ -1,0 +1,14 @@
+{
+	"category" : "AbstractApplicationObjects",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "AppLocalLogin",
+	"pools" : [
+		 ],
+	"super" : "AppLoginMode",
+	"type" : "normal" }
