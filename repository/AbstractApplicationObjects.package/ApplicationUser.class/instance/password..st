@@ -1,6 +1,6 @@
 Updating
 password: newValue
 
-	newValue ifEmpty: [ImproperApplicationOperationException signal: 'Password can no be an empty string !'].
+	newValue ifEmpty: [ImproperApplicationOperationException signal: 'Password can not be an empty string !'].
 
-	password := GRPlatform current secureHashFor: newValue
+	password := newValue sha256Sum
