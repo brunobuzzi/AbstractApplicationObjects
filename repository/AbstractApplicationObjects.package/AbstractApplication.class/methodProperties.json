@@ -43,6 +43,7 @@
 		"getFrontOfficeRoleNamed:" : "brunobb 02/06/2020 09:55",
 		"getNumberOfFormsDefinition" : "brunobb 02/06/2020 09:55",
 		"getOrbeonCache" : "brunobb 02/06/2020 09:55",
+		"getProcessesNamed:version:ifNone:" : "brunobb 03/09/2020 10:11",
 		"getTakenTaskAssignments" : "brunobb 02/06/2020 10:09",
 		"hasBpmEnvironment" : "brunobb 02/06/2020 09:55",
 		"hasProcessNamed:" : "brunobb 02/06/2020 09:55",
