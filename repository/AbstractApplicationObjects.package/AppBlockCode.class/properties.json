@@ -1,0 +1,17 @@
+{
+	"category" : "AbstractApplicationObjects",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"evaluationCode",
+		"evaluationObject",
+		"resultClass",
+		"evaluationResult" ],
+	"name" : "AppBlockCode",
+	"pools" : [
+		 ],
+	"super" : "AbstractApplicationObject",
+	"type" : "normal" }

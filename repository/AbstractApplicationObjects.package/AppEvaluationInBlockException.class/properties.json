@@ -1,0 +1,14 @@
+{
+	"category" : "AbstractApplicationObjects",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "AppEvaluationInBlockException",
+	"pools" : [
+		 ],
+	"super" : "AppCodeEvaluationException",
+	"type" : "normal" }
