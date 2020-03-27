@@ -3,7 +3,7 @@
 	"classinstvars" : [
 		 ],
 	"classvars" : [
-		 ],
+		"FailedEvalCache" ],
 	"commentStamp" : "",
 	"instvars" : [
 		"result",
