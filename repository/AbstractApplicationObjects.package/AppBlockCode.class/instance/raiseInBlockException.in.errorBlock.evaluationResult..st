@@ -8,6 +8,7 @@ raiseInBlockException: anException in: anAppObject errorBlock: aBlock evaluation
 		originalException: anException;
 		exceptionObject: anAppObject; 
 		exceptionBlock: aBlock;
+		blockSource: aBlock blockSource;
 		evaluationResult: anAppCodeEvaluationResult;
 		signal: 'Error during condition evaluation: ', anException description;
 		yourself.

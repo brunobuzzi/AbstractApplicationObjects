@@ -6,7 +6,7 @@ raiseNonBlockExceptionIn: anAppObject errorBlock: aBlock evaluationResult: anApp
 
 	exception := AppEvaluationNotBlockException new 
 		bpmProcess: anAppObject; 
-		blockSource: aBlock; "<aBlock> is not a Smalltalk Block --> the use of #exceptionBlock: is avoided (because #exceptionBlock: send #blockSource to the block)"
+		blockSource: aBlock; "<aBlock> is not a Smalltalk <BlockClosure> (is anObject) --> the use of #exceptionBlock: is avoided (because #exceptionBlock: send #blockSource to the block)"
 		evaluationResult: anAppCodeEvaluationResult;
 		signal: 'Condition is not a Block';
 		yourself.

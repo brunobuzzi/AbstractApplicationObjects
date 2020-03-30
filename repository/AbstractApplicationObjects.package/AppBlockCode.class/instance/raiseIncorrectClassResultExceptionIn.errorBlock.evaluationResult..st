@@ -6,6 +6,7 @@ raiseIncorrectClassResultExceptionIn: anAppObject errorBlock: aBlock evaluationR
 	AppEvaluationIncorrectClassException new 
 		exceptionObject: anAppObject; 
 		exceptionBlock: aBlock;
+		blockSource: aBlock blockSource;
 		evaluationResult: anAppCodeEvaluationResult;
 		signal: 'Block Result is of incorrect class';
 		yourself.
