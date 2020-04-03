@@ -1,4 +1,4 @@
-other
+evaluation
 raiseInBlockException: anException in: anAppObject errorBlock: aBlock evaluationResult: anAppCodeEvaluationResult
 	"The receiver raise a proper exception that is handled in #defaultAction method of <AppEvaluationInBlockException>.
 	Answer <anAppCodeEvaluationResult>"

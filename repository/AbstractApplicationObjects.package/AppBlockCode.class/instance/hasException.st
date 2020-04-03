@@ -1,4 +1,4 @@
-other
+evaluation
 hasException
 
 	^evaluationResult hasException

@@ -1,4 +1,4 @@
-other
+evaluation
 raiseIncorrectClassResultExceptionIn: anAppObject errorBlock: aBlock evaluationResult: anAppCodeEvaluationResult
 	"The receiver raise a proper exception that is handled in #defaultAction method of <EvaluationIncorrectClassException>.
 	Answer <anAppCodeEvaluationResult>"
