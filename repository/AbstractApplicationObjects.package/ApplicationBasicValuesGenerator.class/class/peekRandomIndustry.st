@@ -1,4 +1,4 @@
-other
+industries generator
 peekRandomIndustry
 
 	^self industries randomPeek
