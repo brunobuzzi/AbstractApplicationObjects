@@ -7,11 +7,11 @@ addTo: aZipArchive fileStream: streamToAdd as: memberName writeTo: aGsFile
 	4) Flush in memory Stream to disk file <aGsFile>"
 	| inMemoryStream member |
 
-	inMemoryStream := RWBinaryOrTextStream on: String new. "create in memory <Stream>"
-	member := ZipFileMember newFrom: streamToAdd named: memberName. "create ZIP member"
+	inMemoryStream := RWBinaryOrTextStream on: streamToAdd contents. "create in memory <Stream>"
+	member := ZipStringMember newFrom: streamToAdd named: memberName. "create ZIP member"
 
 	member desiredCompressionMethod: ZipArchive compressionDeflated. 
 
 	aZipArchive writeTo: inMemoryStream. "write ZIP members to <inMemoryStream>"
  
-	aGsFile nextPutAll: inMemoryStream contents. "write to file disk the contents of <inMemoryStream>"
+	aGsFile nextPutAll: streamToAdd contents. "write to file disk the contents of <inMemoryStream>"
