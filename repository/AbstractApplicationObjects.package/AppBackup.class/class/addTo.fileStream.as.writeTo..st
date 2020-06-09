@@ -1,5 +1,5 @@
 zip creation
-addTo: aZipArchive contents: contents as: memberName writeTo: aGsFile
+addTo: aZipArchive fileStream: streamToAdd as: memberName writeTo: aGsFile
 	"The receiver:
 	1) Create a in memory Stream <inMemoryStream>.
 	2) Create a ZIP member <member> with contents <contents>.
@@ -8,7 +8,7 @@ addTo: aZipArchive contents: contents as: memberName writeTo: aGsFile
 	| inMemoryStream member |
 
 	inMemoryStream := RWBinaryOrTextStream on: String new. "create in memory <Stream>"
-	member := aZipArchive addString: contents as: memberName. "create ZIP member"
+	member := ZipFileMember newFrom: streamToAdd named: memberName. "create ZIP member"
 
 	member desiredCompressionMethod: ZipArchive compressionDeflated. 
 

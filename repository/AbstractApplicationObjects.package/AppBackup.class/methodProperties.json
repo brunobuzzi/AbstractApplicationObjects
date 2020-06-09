@@ -1,7 +1,8 @@
 {
 	"class" : {
-		"addTo:contents:as:writeTo:" : "brunobb 06/09/2020 12:11",
-		"createZipFileAs:contents:as:" : "brunobb 06/09/2020 12:06",
+		"addTo:contents:as:writeTo:" : "brunobb 06/09/2020 12:20",
+		"addTo:fileStream:as:writeTo:" : "brunobb 06/09/2020 12:29",
+		"createZipFileAs:contents:as:" : "brunobb 06/09/2020 12:17",
 		"fullBackupLz4CompressedTo:" : "brunobb 06/09/2020 10:56" },
 	"instance" : {
 		 } }
