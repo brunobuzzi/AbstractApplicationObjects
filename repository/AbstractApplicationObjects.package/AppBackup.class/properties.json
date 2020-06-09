@@ -1,0 +1,14 @@
+{
+	"category" : "AbstractApplicationObjects",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "AppBackup",
+	"pools" : [
+		 ],
+	"super" : "AbstractApplicationObject",
+	"type" : "normal" }
