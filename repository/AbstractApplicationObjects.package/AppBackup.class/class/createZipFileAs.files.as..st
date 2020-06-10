@@ -1,13 +1,14 @@
 zip creation
-createZipFileAs: pathFile files: anArrayOfStreams as: anArrayOfMembersNames
-	"The receiver create a ZIP file as <pathFile> with all contents of <anArrayOfContents> where each member of the ZIP is named as in <anArrayOfMembersNames>"
-	| zipArchive gsFile |
+createZipFileAs: pathFile files: anArrayOfFileNames as: anArrayOfMembersNames
+	"The receiver create a ZIP file as <pathFile> with all contents of <anArrayOfFileNames> where each member of the ZIP is named as in <anArrayOfMembersNames>"
+	| arrayOfContents |
 
-	gsFile := GsFile open: pathFile mode: 'wb' onClient: false. "actual zip file on disk"
-	zipArchive := ZipArchive new. "zip generator"
+	arrayOfContents := OrderedCollection new.
 
-	anArrayOfStreams keysAndValuesDo: [:index :fileStream | 
-		self addTo: zipArchive fileStream: fileStream as: (anArrayOfMembersNames at: index) writeTo: gsFile.
-	].
+	anArrayOfFileNames do: [:each | | gsFile |
+		gsFile := GsFile open: each mode: 'r' onClient: false.
+		arrayOfContents add: gsFile contents.
+		gsFile close.
+	]. 
 
-	gsFile close.
+	self createZipFileAs: pathFile on: ZipArchive new contents: arrayOfContents asArray as: anArrayOfMembersNames
