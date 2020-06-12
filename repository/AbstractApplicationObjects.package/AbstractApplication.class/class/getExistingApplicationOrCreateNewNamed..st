@@ -1,4 +1,4 @@
-cache
+instance creation
 getExistingApplicationOrCreateNewNamed: aString
 	"The receiver answer a instance of it self named <aString>. 
 	If it is present in the cache --> answer the existing one.
