@@ -1,4 +1,4 @@
-other
+cache orbeon
 getOrbeonCache
 
-	^self cache select: [:each | each isOrbeonApplication]
+	^self selectInCache: [:each | each isOrbeonApplication]

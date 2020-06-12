@@ -1,4 +1,4 @@
-other
+cache bpm
 getBpmCache
 
-	^self cache select: [:each | each isBpmApplication]
+	^self selectInCache: [:each | each isBpmApplication]

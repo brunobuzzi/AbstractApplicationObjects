@@ -1,4 +1,4 @@
-other
+cache
 applicationNamed: aString
 	"Answer a OrbeonApplication or BpmApplication named <aString> if none answer <nil>"
 
