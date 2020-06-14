@@ -1,4 +1,4 @@
-zip creation
+small zip creation
 createZipFileAs: pathFile files: anArrayOfFileNames as: anArrayOfMembersNames
 	"The receiver create a ZIP file as <pathFile> with all contents of <anArrayOfFileNames> where each member of the ZIP is named as in <anArrayOfMembersNames>"
 	| arrayOfContents |

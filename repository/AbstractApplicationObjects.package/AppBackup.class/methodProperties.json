@@ -1,11 +1,13 @@
 {
 	"class" : {
 		"addTo:contents:as:writeTo:" : "brunobb 06/09/2020 12:20",
+		"createTarFileAs:compress:" : "brunobb 06/13/2020 16:30",
 		"createZipFileAs:contents:as:" : "brunobb 06/10/2020 11:47",
 		"createZipFileAs:files:as:" : "brunobb 06/10/2020 12:22",
 		"createZipFileAs:on:contents:as:" : "brunobb 06/10/2020 11:47",
 		"fullBackupGzCompressedTo:" : "brunobb 06/10/2020 12:31",
 		"fullBackupLz4CompressedTo:" : "brunobb 06/10/2020 12:30",
-		"fullBackupTo:" : "brunobb 06/10/2020 12:31" },
+		"fullBackupTo:" : "brunobb 06/10/2020 12:31",
+		"uncompressTarFile:to:" : "brunobb 06/13/2020 16:34" },
 	"instance" : {
 		 } }

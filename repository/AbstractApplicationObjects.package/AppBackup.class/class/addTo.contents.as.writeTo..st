@@ -1,4 +1,4 @@
-zip creation
+small zip creation
 addTo: aZipArchive contents: contents as: memberName writeTo: aGsFile
 	"The receiver:
 	1) Create a in memory Stream <inMemoryStream>.

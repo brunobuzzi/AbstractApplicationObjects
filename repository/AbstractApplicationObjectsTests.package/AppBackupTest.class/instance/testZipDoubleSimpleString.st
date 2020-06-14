@@ -6,4 +6,12 @@ testZipDoubleSimpleString
 
 	zipIntegrityString := System performOnServer: 'unzip -t /tmp/double.zip'.
 
-	self assert: (zipIntegrityString includesSubstring: 'No errors detected')
+	self assert: (zipIntegrityString includesSubstring: 'No errors detected').
+
+	System performOnServer: 'rm -f /tmp/double.zip'.
+	System performOnServer: 'rm -f /tmp/test.txt'.
+	System performOnServer: 'rm -f /tmp/test2.txt'.
+
+	self deny: (GsFile existsOnServer: '/tmp/double.zip').
+	self deny: (GsFile existsOnServer: '/tmp/test.txt').
+	self deny: (GsFile existsOnServer: '/tmp/test2.txt').
