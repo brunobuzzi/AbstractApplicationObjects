@@ -1,0 +1,19 @@
+{
+	"category" : "AbstractApplicationObjects",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"pathToDbExecutable",
+		"hostName",
+		"user",
+		"password",
+		"osProcess",
+		"dbName" ],
+	"name" : "AppDbSession",
+	"pools" : [
+		 ],
+	"super" : "AbstractDbSession",
+	"type" : "normal" }
