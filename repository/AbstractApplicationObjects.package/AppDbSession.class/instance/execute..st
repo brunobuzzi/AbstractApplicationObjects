@@ -1,8 +1,10 @@
 sql execution
 execute: sqlString
-	
+ 
 	osProcess 
 	ifNil: [osProcess := GsHostProcess fork: (self prepareSqlSentence: sqlString)]
 	ifNotNil: [].
 
-	^osProcess stdoutReadAllAvailableInPipe
+	(Delay forSeconds: 1) wait.
+
+	^Array with: osProcess stderrReadAllAvailableInPipe with: osProcess stdoutReadAllAvailableInPipe
