@@ -6,15 +6,11 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"pathToDbExecutable",
-		"hostName",
-		"user",
-		"password",
-		"osProcess",
-		"dbName",
-		"timeout" ],
-	"name" : "AppDbSession",
+		"value",
+		"error",
+		"expired" ],
+	"name" : "AppDbSessionResult",
 	"pools" : [
 		 ],
-	"super" : "AbstractDbSession",
+	"super" : "Object",
 	"type" : "normal" }

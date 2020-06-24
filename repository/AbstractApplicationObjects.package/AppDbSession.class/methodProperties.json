@@ -1,9 +1,10 @@
 {
 	"class" : {
-		"mySqlExample" : "brunobb 06/22/2020 14:16",
-		"newFor:commandPath:host:user:password:" : "brunobb 06/22/2020 13:47",
-		"newForMysql_usrBin:user:password:" : "brunobb 06/22/2020 13:51" },
+		"mySqlExample" : "brunobb 06/24/2020 14:18",
+		"newFor:commandPath:host:user:password:" : "brunobb 06/24/2020 14:18",
+		"newForMysql_usrBin:user:password:" : "brunobb 06/24/2020 14:18" },
 	"instance" : {
-		"execute:" : "brunobb 06/24/2020 12:14",
-		"prepareSqlSentence:" : "brunobb 06/22/2020 14:16",
-		"setPathToDbExecutableFor:commandPath:host:user:password:" : "brunobb 06/22/2020 13:48" } }
+		"execute:" : "brunobb 06/24/2020 14:39",
+		"prepareSqlSentence:" : "brunobb 06/24/2020 14:18",
+		"setPathToDbExecutableFor:commandPath:host:user:password:" : "brunobb 06/24/2020 14:34",
+		"setTimeout:" : "brunobb 06/24/2020 14:26" } }
