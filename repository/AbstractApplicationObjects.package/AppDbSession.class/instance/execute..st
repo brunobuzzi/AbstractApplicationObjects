@@ -1,10 +1,13 @@
 sql execution
 execute: sqlString
-	| timeNow timeoutExpired result |
+	| timeNow timeoutExpired result request bytesWritten error |
 
-	osProcess 
-	ifNil: [osProcess := GsHostProcess fork: (self prepareSqlSentence: sqlString)]
-	ifNotNil: [].
+	request := String withAll: sqlString.
+	request add: Character cr;
+		add: Character lf.
+
+	bytesWritten := osProcess stdin write: request.
+	error := osProcess stderrReadAllAvailableInPipe.
 
 	timeNow := TimeStamp now.
 	timeoutExpired := false.
@@ -15,4 +18,4 @@ execute: sqlString
 
 	].
 	
-	^AppDbSessionResult newWith: result error: osProcess stderrReadAllAvailableInPipe expired: timeoutExpired
+	^(AppDbSessionResult newOn: self With: result error: error expired: timeoutExpired)

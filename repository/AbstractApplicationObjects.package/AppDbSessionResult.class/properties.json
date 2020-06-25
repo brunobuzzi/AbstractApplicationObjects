@@ -6,9 +6,10 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
+		"session",
 		"value",
 		"error",
-		"expired" ],
+		"queryExpired" ],
 	"name" : "AppDbSessionResult",
 	"pools" : [
 		 ],
