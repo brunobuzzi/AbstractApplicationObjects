@@ -4,6 +4,7 @@
 		"newFor:commandPath:host:user:password:" : "brunobb 06/24/2020 14:18",
 		"newForMysql_usrBin:user:password:" : "brunobb 06/24/2020 14:18" },
 	"instance" : {
+		"basicExecute:" : "brunobb 06/26/2020 10:50",
 		"execute:" : "brunobb 06/24/2020 15:53",
 		"openConnection" : "brunobb 06/24/2020 15:51",
 		"osProcessExited" : "brunobb 06/24/2020 15:15",
