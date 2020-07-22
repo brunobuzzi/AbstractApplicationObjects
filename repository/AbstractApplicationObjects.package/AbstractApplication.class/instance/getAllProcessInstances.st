@@ -6,7 +6,8 @@ getAllProcessInstances
 	allInstances := Set new.
 
 	processesDefinitions do: [:definitionCollection | 
-		definitionCollection do: [:procDefinition | allInstances addAll: procDefinition processInstancesSet]. 
+		definitionCollection do: [:procDefinition | 
+			procDefinition processInstancesSetDo: [:eachInstance | allInstances add: eachInstance]]. 
 	]. 
 
 	^allInstances
