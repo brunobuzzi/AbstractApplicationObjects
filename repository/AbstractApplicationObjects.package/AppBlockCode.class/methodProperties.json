@@ -18,7 +18,7 @@
 		"initialize" : "brunobb 03/27/2020 15:15",
 		"printEvaluationCode" : "brunobb 03/27/2020 15:15",
 		"printOn:" : "brunobb 03/27/2020 15:15",
-		"raiseInBlockException:in:errorBlock:evaluationResult:" : "brunobb 03/30/2020 13:48",
+		"raiseInBlockException:in:errorBlock:evaluationResult:" : "brunobb 08/08/2020 14:50",
 		"raiseIncorrectClassResultExceptionIn:errorBlock:evaluationResult:" : "brunobb 03/30/2020 14:06",
 		"raiseNonBlockExceptionIn:errorBlock:evaluationResult:" : "brunobb 04/03/2020 13:38",
 		"resultClass" : "brunobb 03/27/2020 15:14",
