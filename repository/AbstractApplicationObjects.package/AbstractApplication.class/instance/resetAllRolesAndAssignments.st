@@ -1,6 +1,0 @@
-tasks assignments
-resetAllRolesAndAssignments
-
-	availableTasksMatrix resetRolesAndAssignments.
-	finishedTasksMatrix resetRolesAndAssignments.
-	takenTasksMatrix resetRolesAndAssignments.
