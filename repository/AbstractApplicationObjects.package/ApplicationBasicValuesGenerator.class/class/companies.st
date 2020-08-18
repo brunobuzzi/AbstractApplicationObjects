@@ -1,6 +1,6 @@
-other
+company generator
 companies
 
-	Companies ifNil: [Companies := SortedCollection new].
+	Companies ifNil: [self initializeCompanies].
 
 	^Companies

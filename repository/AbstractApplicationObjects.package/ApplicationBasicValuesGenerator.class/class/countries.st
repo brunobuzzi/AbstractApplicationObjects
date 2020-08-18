@@ -1,6 +1,6 @@
-other
+country generator
 countries
 
-	Countries ifNil: [Countries := SortedCollection new].
+	Countries ifNil: [self initializeCountries].
 
 	^Countries

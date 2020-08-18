@@ -1,6 +1,6 @@
-other
+industries generator
 industries
 
-	Industries ifNil: [Industries := SortedCollection new].
+	Industries ifNil: [self initializeIndustries].
 
 	^Industries

@@ -1,4 +1,4 @@
-other
+names
 maleNames
 
 	MaleNames ifNil: [MaleNames := SortedCollection new].
