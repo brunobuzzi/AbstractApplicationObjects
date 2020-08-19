@@ -7,3 +7,6 @@ removeAllProcessesDefinitions
 			eachProc getAllArtifacts do: [:eachArt | eachArt ungrantAllRoles]. "remove tasks from roles"
 		].
 	].
+
+	self getAllProcessDefinitions do: [:eachProc |  
+		eachProc unregisterProcessDefinition: eachProc ifAbsent: [AppObjectNotInCacheException signal: 'BPM Process Definition named [', eachProc processName,'] does not exist']]
