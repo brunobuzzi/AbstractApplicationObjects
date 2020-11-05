@@ -1,0 +1,14 @@
+{
+	"category" : "AbstractTestFramework",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"KeepTempObjectsInSystem" ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "AbstractObjectCreatorTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }
