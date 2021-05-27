@@ -1,0 +1,14 @@
+{
+	"category" : "AbstractApplicationObjects",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"properties" ],
+	"name" : "AbstractSystemManager",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

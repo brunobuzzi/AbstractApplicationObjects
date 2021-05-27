@@ -1,0 +1,8 @@
+{
+	"class" : {
+		"new" : "brunobb 05/27/2021 13:01" },
+	"instance" : {
+		"atProperty:put:" : "brunobb 05/27/2021 13:02",
+		"initialize" : "brunobb 05/27/2021 13:02",
+		"removeProperty:" : "brunobb 05/27/2021 13:03",
+		"removeProperty:ifAbsent:" : "brunobb 05/27/2021 13:03" } }
