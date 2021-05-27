@@ -2,7 +2,10 @@
 	"class" : {
 		"new" : "brunobb 05/27/2021 13:01" },
 	"instance" : {
+		"atProperty:" : "brunobb 05/27/2021 13:24",
+		"atProperty:ifAbsent:" : "brunobb 05/27/2021 13:23",
 		"atProperty:put:" : "brunobb 05/27/2021 13:02",
 		"initialize" : "brunobb 05/27/2021 13:02",
+		"initializeCurrentSystem" : "brunobb 05/27/2021 13:30",
 		"removeProperty:" : "brunobb 05/27/2021 13:03",
 		"removeProperty:ifAbsent:" : "brunobb 05/27/2021 13:03" } }
