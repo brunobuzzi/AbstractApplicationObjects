@@ -1,4 +1,4 @@
-other
+system setUp
 initialize
 
 	super initialize.

@@ -1,4 +1,4 @@
-other
+system setUp
 initializeCurrentSystem
 
 	self subclassResponsibility
