@@ -1,4 +1,4 @@
 users
 unregisterUser: aSystemUser
 
-	self subclassResponsibility
+	self unregisterUser: aSystemUser ifAbsent: []

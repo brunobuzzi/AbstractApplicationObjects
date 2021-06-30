@@ -9,7 +9,9 @@
 		"defineAsCurrent" : "brunobb 06/30/2021 14:37",
 		"initialize" : "brunobb 06/30/2021 15:19",
 		"initializeCurrentSystem" : "brunobb 06/30/2021 14:37",
-		"registerUser:" : "brunobb 06/30/2021 15:19",
+		"registerUser:" : "brunobb 06/30/2021 15:22",
+		"registerUser:ifPresent:" : "brunobb 06/30/2021 15:22",
 		"removeProperty:" : "brunobb 06/30/2021 14:37",
 		"removeProperty:ifAbsent:" : "brunobb 06/30/2021 14:37",
-		"unregisterUser:" : "brunobb 06/30/2021 15:19" } }
+		"unregisterUser:" : "brunobb 06/30/2021 15:23",
+		"unregisterUser:ifAbsent:" : "brunobb 06/30/2021 15:22" } }

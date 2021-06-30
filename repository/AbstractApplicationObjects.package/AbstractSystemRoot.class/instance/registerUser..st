@@ -1,4 +1,4 @@
 users
 registerUser: aSystemUser
 
-	self subclassResponsibility
+	self registerUser: aSystemUser ifPresent: []
