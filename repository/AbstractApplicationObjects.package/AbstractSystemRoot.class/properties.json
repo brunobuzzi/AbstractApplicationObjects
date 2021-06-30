@@ -8,7 +8,7 @@
 	"instvars" : [
 		"properties",
 		"serverConfiguration" ],
-	"name" : "AbstractSystemManager",
+	"name" : "AbstractSystemRoot",
 	"pools" : [
 		 ],
 	"super" : "Object",

@@ -13,7 +13,8 @@
 		"processesDefinitions",
 		"availableTasksMatrix",
 		"finishedTasksMatrix",
-		"takenTasksMatrix" ],
+		"takenTasksMatrix",
+		"systemRoot" ],
 	"name" : "AbstractApplication",
 	"pools" : [
 		 ],
