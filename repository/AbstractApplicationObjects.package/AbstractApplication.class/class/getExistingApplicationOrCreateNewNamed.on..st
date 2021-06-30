@@ -7,7 +7,4 @@ getExistingApplicationOrCreateNewNamed: aString on: anAbstractSystemRoot
 	^self cache 
 		at: aString 
 		ifPresent: [:application | application]
-		ifAbsent: [super new initialize
-						applicationName: aString;
-						addToCache;
-						yourself]
+		ifAbsent: [self new setRoot: anAbstractSystemRoot applicationName: aString]

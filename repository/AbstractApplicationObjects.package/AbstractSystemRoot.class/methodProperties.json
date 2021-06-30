@@ -7,7 +7,9 @@
 		"atProperty:put:" : "brunobb 06/30/2021 14:37",
 		"createSystemDefaultObjects" : "brunobb 06/30/2021 14:37",
 		"defineAsCurrent" : "brunobb 06/30/2021 14:37",
-		"initialize" : "brunobb 06/30/2021 14:37",
+		"initialize" : "brunobb 06/30/2021 15:19",
 		"initializeCurrentSystem" : "brunobb 06/30/2021 14:37",
+		"registerUser:" : "brunobb 06/30/2021 15:19",
 		"removeProperty:" : "brunobb 06/30/2021 14:37",
-		"removeProperty:ifAbsent:" : "brunobb 06/30/2021 14:37" } }
+		"removeProperty:ifAbsent:" : "brunobb 06/30/2021 14:37",
+		"unregisterUser:" : "brunobb 06/30/2021 15:19" } }
