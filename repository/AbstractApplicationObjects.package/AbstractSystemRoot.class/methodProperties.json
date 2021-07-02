@@ -1,17 +1,18 @@
 {
 	"class" : {
-		"new" : "brunobb 06/30/2021 14:37" },
+		"new" : "brunobb 06/30/2021 15:28" },
 	"instance" : {
-		"atProperty:" : "brunobb 06/30/2021 14:37",
-		"atProperty:ifAbsent:" : "brunobb 06/30/2021 14:37",
-		"atProperty:put:" : "brunobb 06/30/2021 14:37",
-		"createSystemDefaultObjects" : "brunobb 06/30/2021 14:37",
-		"defineAsCurrent" : "brunobb 06/30/2021 14:37",
-		"initialize" : "brunobb 06/30/2021 15:19",
-		"initializeCurrentSystem" : "brunobb 06/30/2021 14:37",
-		"registerUser:" : "brunobb 06/30/2021 15:22",
-		"registerUser:ifPresent:" : "brunobb 06/30/2021 15:22",
-		"removeProperty:" : "brunobb 06/30/2021 14:37",
-		"removeProperty:ifAbsent:" : "brunobb 06/30/2021 14:37",
-		"unregisterUser:" : "brunobb 06/30/2021 15:23",
-		"unregisterUser:ifAbsent:" : "brunobb 06/30/2021 15:22" } }
+		"atProperty:" : "brunobb 06/30/2021 15:28",
+		"atProperty:ifAbsent:" : "brunobb 06/30/2021 15:28",
+		"atProperty:put:" : "brunobb 06/30/2021 15:28",
+		"createSystemDefaultObjects" : "brunobb 06/30/2021 15:28",
+		"defineAsCurrent" : "brunobb 06/30/2021 15:28",
+		"getUserNamed:ifAbsent:" : "brunobb 06/30/2021 15:41",
+		"initialize" : "brunobb 06/30/2021 15:28",
+		"initializeCurrentSystem" : "brunobb 06/30/2021 15:28",
+		"registerUser:" : "brunobb 06/30/2021 15:29",
+		"registerUser:ifPresent:" : "brunobb 06/30/2021 15:30",
+		"removeProperty:" : "brunobb 06/30/2021 15:28",
+		"removeProperty:ifAbsent:" : "brunobb 06/30/2021 15:28",
+		"unregisterUser:" : "brunobb 06/30/2021 15:29",
+		"unregisterUser:ifAbsent:" : "brunobb 06/30/2021 15:31" } }

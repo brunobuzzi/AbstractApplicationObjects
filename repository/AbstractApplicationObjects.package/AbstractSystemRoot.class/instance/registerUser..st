@@ -1,4 +1,4 @@
 users
-registerUser: aSystemUser
+registerUser: anApplicationUser
 
-	self registerUser: aSystemUser ifPresent: []
+	self registerUser: anApplicationUser ifPresent: []

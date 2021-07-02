@@ -8,7 +8,7 @@
 	"instvars" : [
 		"properties",
 		"serverConfiguration",
-		"users" ],
+		"globalUsers" ],
 	"name" : "AbstractSystemRoot",
 	"pools" : [
 		 ],

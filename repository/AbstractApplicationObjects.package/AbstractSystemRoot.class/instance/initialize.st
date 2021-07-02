@@ -3,6 +3,6 @@ initialize
 
 	super initialize.
 
-	users := Dictionary new.
+	globalUsers := Dictionary new.
 	properties := Dictionary new.
 	serverConfiguration := ApplicationServerConfiguration new.

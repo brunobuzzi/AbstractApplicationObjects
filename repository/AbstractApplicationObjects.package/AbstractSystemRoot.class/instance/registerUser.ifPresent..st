@@ -1,4 +1,6 @@
 users
-registerUser: aSystemUser ifPresent: aBlock
+registerUser: anApplicationUser ifPresent: aBlock
 
-	self subclassResponsibility
+	(globalUsers includesKey: anApplicationUser username) ifTrue: [^aBlock value].
+
+	globalUsers at: anApplicationUser username put: anApplicationUser

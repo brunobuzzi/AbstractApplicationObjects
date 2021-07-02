@@ -1,4 +1,6 @@
 users
-unregisterUser: aSystemUser ifAbsent: aBlock
+unregisterUser: anApplicationUser ifAbsent: aBlock
 
-	self subclassResponsibility
+	(globalUsers includesKey: anApplicationUser username) ifFalse: [^aBlock value].
+
+	globalUsers removeKey: anApplicationUser username
