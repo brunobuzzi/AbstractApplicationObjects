@@ -1,0 +1,4 @@
+central users
+defaultCentralUserClass
+
+	^ApplicationCentralUser

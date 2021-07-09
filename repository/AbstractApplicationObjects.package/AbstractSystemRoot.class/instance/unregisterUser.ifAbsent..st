@@ -1,6 +1,6 @@
-users
-unregisterUser: anApplicationUser ifAbsent: aBlock
+application users
+unregisterUser: aUser ifAbsent: aBlock
 
-	(globalUsers includesKey: anApplicationUser username) ifFalse: [^aBlock value].
+	(applicationUsers includesKey: aUser username) ifFalse: [^aBlock value].
 
-	globalUsers removeKey: anApplicationUser username
+	applicationUsers removeKey: aUser username

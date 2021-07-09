@@ -1,4 +1,4 @@
-users
-unregisterUser: anApplicationUser
+application users
+unregisterUser: aUser
 
-	self unregisterUser: anApplicationUser ifAbsent: []
+	self unregisterUser: aUser ifAbsent: []

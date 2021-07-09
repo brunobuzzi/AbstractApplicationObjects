@@ -1,4 +1,4 @@
-users
+application users
 getUserNamed: aString ifAbsent: aBlock
 
-	^globalUsers at: aString ifAbsent: aBlock
+	^applicationUsers at: aString ifAbsent: aBlock

@@ -1,6 +1,6 @@
-users
-registerUser: anApplicationUser ifPresent: aBlock
+application users
+registerUser: aUser ifPresent: aBlock
 
-	(globalUsers includesKey: anApplicationUser username) ifTrue: [^aBlock value].
+	(applicationUsers includesKey: aUser username) ifTrue: [^aBlock value].
 
-	globalUsers at: anApplicationUser username put: anApplicationUser
+	applicationUsers at: aUser username put: aUser
