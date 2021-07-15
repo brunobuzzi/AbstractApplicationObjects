@@ -1,5 +1,5 @@
 other
-validateUser: username password: password
+validateUser: username password: password on: aBpmSystemRoot
 
 	^System validatePasswordUsingLdapServers: (Array with: 'ldap://', ldapIP	)
 		baseDn: dn 
