@@ -17,6 +17,7 @@
 		"hasApplicationNamed:" : "brunobb 06/30/2021 14:35",
 		"initializeCache" : "brunobb 06/30/2021 14:35",
 		"newNamed:" : "brunobb 06/30/2021 14:35",
+		"newNamed:on:" : "brunobb 07/24/2021 13:42",
 		"selectInCache:" : "brunobb 06/30/2021 14:35",
 		"selectInOrbeonCache:" : "brunobb 06/30/2021 14:35" },
 	"instance" : {
@@ -76,6 +77,7 @@
 		"removeRole:ifAbsent:" : "brunobb 06/30/2021 14:35",
 		"resetDefinitionRegistry" : "brunobb 06/30/2021 14:35",
 		"setRoot:applicationName:" : "brunobb 06/30/2021 14:46",
+		"systemRoot" : "brunobb 07/24/2021 13:36",
 		"takenTasksMatrix" : "brunobb 06/30/2021 14:35",
 		"takenTasksMatrix:" : "brunobb 06/30/2021 14:35",
 		"tasksMatrixAreInitialized" : "brunobb 07/08/2021 10:29",
