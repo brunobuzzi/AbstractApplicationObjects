@@ -1,4 +1,4 @@
 application users
 usersAnySatisfy: aBlock
 
-	^applicationUsers anySaatisfy: aBlock
+	^applicationUsers anySatisfy: aBlock
