@@ -1,0 +1,4 @@
+server configuraion ldap
+dnForWebProcess
+
+	^serverConfiguration dnForWebProcess

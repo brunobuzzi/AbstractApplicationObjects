@@ -1,0 +1,4 @@
+server configuration
+setLocalForProcesses
+
+	^serverConfiguration setLocalForProcesses

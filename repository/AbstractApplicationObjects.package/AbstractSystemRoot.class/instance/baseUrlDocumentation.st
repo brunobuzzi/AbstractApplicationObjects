@@ -1,0 +1,4 @@
+server configuration
+baseUrlDocumentation
+
+	^serverConfiguration baseUrlDocumentation

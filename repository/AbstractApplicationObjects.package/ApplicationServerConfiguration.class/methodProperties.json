@@ -1,6 +1,22 @@
 {
 	"class" : {
-		"default" : "BrunoBB 02/03/2016 08:52",
-		"default:" : "BrunoBB 02/03/2016 08:51" },
+		"default" : "brunobb 08/19/2021 11:57",
+		"default:" : "brunobb 08/19/2021 11:57" },
 	"instance" : {
-		 } }
+		"baseUrlDocumentation" : "brunobb 08/19/2021 11:57",
+		"baseUrlDocumentation:" : "brunobb 08/19/2021 11:57",
+		"bindPasswordForWebOrbeon" : "brunobb 08/19/2021 11:57",
+		"bindPasswordForWebProcess" : "brunobb 08/19/2021 11:57",
+		"dnForWebOrbeon" : "brunobb 08/19/2021 11:57",
+		"dnForWebProcess" : "brunobb 08/19/2021 11:57",
+		"gemstoneIP" : "brunobb 08/19/2021 11:57",
+		"gemstoneIP:" : "brunobb 08/19/2021 11:57",
+		"initialize" : "brunobb 08/19/2021 11:57",
+		"ldapIpForWebOrbeon" : "brunobb 08/19/2021 11:57",
+		"ldapIpForWebProcess" : "brunobb 08/19/2021 11:57",
+		"loginModeFor:" : "brunobb 08/19/2021 11:57",
+		"loginModeForProcessWeb" : "brunobb 08/19/2021 11:57",
+		"ouForWebOrbeon" : "brunobb 08/19/2021 11:57",
+		"ouForWebProcess" : "brunobb 08/19/2021 11:57",
+		"setDefaultBaseUrlDocumentation" : "brunobb 08/19/2021 11:57",
+		"setLdapFor:" : "brunobb 08/19/2021 11:57" } }

@@ -1,0 +1,4 @@
+server configuraion ldap
+bindPasswordForWebProcess
+
+	^serverConfiguration bindPasswordForWebProcess

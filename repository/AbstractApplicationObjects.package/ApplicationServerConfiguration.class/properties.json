@@ -6,7 +6,9 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		 ],
+		"gemstoneIP",
+		"loginModes",
+		"baseUrlDocumentation" ],
 	"name" : "ApplicationServerConfiguration",
 	"pools" : [
 		 ],
