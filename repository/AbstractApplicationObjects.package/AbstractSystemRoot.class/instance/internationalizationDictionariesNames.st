@@ -1,0 +1,4 @@
+internationalization
+internationalizationDictionariesNames
+
+	^applicationInternationalization currentDictionariesNames

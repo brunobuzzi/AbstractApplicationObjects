@@ -1,4 +1,4 @@
 *abstractApplicationObjects
 translateFor: userObject
 
-	^self getInternationalization getTranslationFor: self in: userObject languageName
+	^userObject systemRoot getTranslationFor: self in: userObject languageName

@@ -9,7 +9,8 @@
 		"properties",
 		"serverConfiguration",
 		"centralUsers",
-		"applicationUsers" ],
+		"applicationUsers",
+		"applicationInternationalization" ],
 	"name" : "AbstractSystemRoot",
 	"pools" : [
 		 ],

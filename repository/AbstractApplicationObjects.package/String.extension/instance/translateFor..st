@@ -3,4 +3,4 @@ translateFor: userObject
 
 	userObject ifNil: [^self].
 
-	^self getInternationalization getTranslationFor: self in: userObject languageName
+	^userObject systemRoot getTranslationFor: self in: userObject languageName

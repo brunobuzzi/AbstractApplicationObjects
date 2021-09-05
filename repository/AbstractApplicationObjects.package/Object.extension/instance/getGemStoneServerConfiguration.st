@@ -1,4 +1,0 @@
-*abstractApplicationObjects
-getGemStoneServerConfiguration
-
-	^self class getGemStoneServerConfiguration

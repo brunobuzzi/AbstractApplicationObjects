@@ -1,4 +1,4 @@
-server configuraion ldap
+server configuration ldap
 bindPassword: value
 
 	^serverConfiguration bindPassword: value

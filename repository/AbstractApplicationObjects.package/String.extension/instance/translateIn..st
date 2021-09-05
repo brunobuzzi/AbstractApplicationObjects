@@ -1,4 +1,4 @@
 *abstractApplicationObjects
 translateIn: aWABpmSession
 
-	^aWABpmSession getInternationalization getTranslationFor: self in: aWABpmSession languageName
+	^aWABpmSession systemRoot getTranslationFor: self in: aWABpmSession languageName

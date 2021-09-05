@@ -1,4 +1,4 @@
-server configuraion ldap
+server configuration ldap
 ldapIP: value
 
 	^serverConfiguration ldapIP: value

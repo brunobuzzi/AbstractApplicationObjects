@@ -1,4 +1,4 @@
-server configuraion ldap
+server configuration ldap
 ou: value
 
 	^serverConfiguration ou: value

@@ -1,4 +1,4 @@
-server configuraion ldap
+server configuration ldap
 ldapIpForWebProcess
 
 	^serverConfiguration ldapIpForWebProcess

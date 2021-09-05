@@ -7,3 +7,4 @@ initialize
 	applicationUsers := Dictionary new.
 	properties := Dictionary new.
 	serverConfiguration := ApplicationServerConfiguration new.
+	applicationInternationalization := ApplicationInternationalization new.
