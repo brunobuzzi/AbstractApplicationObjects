@@ -1,13 +1,7 @@
 {
 	"class" : {
-		"atIndex:ifAbsent:" : "brunobb 11/29/2019 08:52",
-		"cache" : "brunobb 11/29/2019 08:52",
-		"distribution:" : "brunobb 11/29/2019 08:52",
-		"getCacheSize" : "brunobb 11/29/2019 08:52",
-		"reportRepository" : "brunobb 11/29/2019 08:52" },
+		"distribution:" : "brunobb 11/29/2019 08:52" },
 	"instance" : {
-		"addToCache" : "brunobb 11/29/2019 08:52",
-		"addToCacheWithCategories:" : "brunobb 11/29/2019 08:52",
 		"applicationName" : "brunobb 11/29/2019 08:52",
 		"asSavedReport" : "brunobb 11/29/2019 08:52",
 		"asSavedReportWithCategories:" : "brunobb 11/29/2019 08:52",
@@ -71,7 +65,6 @@
 		"printSecondsToConstruct" : "brunobb 11/29/2019 08:52",
 		"printStartDate" : "brunobb 11/29/2019 08:52",
 		"processName" : "brunobb 11/29/2019 08:52",
-		"removeFromCache" : "brunobb 11/29/2019 08:52",
 		"reportRepository" : "brunobb 11/29/2019 08:52",
 		"rootDistribution" : "brunobb 11/29/2019 08:52",
 		"rootDistribution:" : "brunobb 11/29/2019 08:52",

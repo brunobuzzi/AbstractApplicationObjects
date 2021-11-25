@@ -1,8 +1,11 @@
 {
 	"class" : {
-		"new" : "brunobb 09/03/2021 11:10" },
+		"new" : "brunobb 09/03/2021 11:10",
+		"newWithBasicObjects" : "brunobb 11/25/2021 03:40" },
 	"instance" : {
 		"addLanguage:" : "brunobb 09/03/2021 12:05",
+		"adminPassword" : "brunobb 11/25/2021 03:39",
+		"adminUserName" : "brunobb 11/25/2021 03:39",
 		"atProperty:" : "brunobb 09/03/2021 11:10",
 		"atProperty:ifAbsent:" : "brunobb 09/03/2021 11:10",
 		"atProperty:put:" : "brunobb 09/03/2021 11:10",
@@ -20,6 +23,7 @@
 		"getCentralUserNamed:" : "brunobb 09/03/2021 11:10",
 		"getCentralUserNamed:ifAbsent:" : "brunobb 09/03/2021 11:10",
 		"getExistingOrNewCentralUserNamed:" : "brunobb 09/03/2021 11:10",
+		"getExistingOrNewUserNamed:" : "brunobb 11/24/2021 14:41",
 		"getTranslationFor:in:" : "brunobb 09/03/2021 12:10",
 		"getTranslationsOf:" : "brunobb 09/03/2021 12:03",
 		"getUserNamed:" : "brunobb 09/03/2021 11:10",
@@ -31,6 +35,7 @@
 		"ldapIpForWebProcess" : "brunobb 09/03/2021 11:10",
 		"loginModeFor:" : "brunobb 09/03/2021 11:10",
 		"loginModeForProcessWeb" : "brunobb 09/03/2021 11:10",
+		"newUsername:password:" : "brunobb 11/24/2021 14:41",
 		"ou:" : "brunobb 09/03/2021 11:10",
 		"ouForWebProcess" : "brunobb 09/03/2021 11:10",
 		"registerCentralUser:" : "brunobb 09/03/2021 11:10",
@@ -39,6 +44,7 @@
 		"registerUser:ifPresent:" : "brunobb 09/03/2021 11:10",
 		"removeProperty:" : "brunobb 09/03/2021 11:10",
 		"removeProperty:ifAbsent:" : "brunobb 09/03/2021 11:10",
+		"setBasicObjects" : "brunobb 11/25/2021 03:41",
 		"setLdapFor:" : "brunobb 09/03/2021 11:10",
 		"setLocalForProcesses" : "brunobb 09/03/2021 11:10",
 		"timersTimespan" : "brunobb 09/03/2021 11:10",

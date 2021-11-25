@@ -1,11 +1,8 @@
 {
 	"class" : {
 		"exception:" : "brunobb 03/27/2020 16:04",
-		"failedEvaluationCache" : "brunobb 03/27/2020 16:04",
-		"initializeFailedEvaluationCache" : "brunobb 03/27/2020 16:04",
 		"result:" : "brunobb 03/27/2020 16:04" },
 	"instance" : {
-		"addToCache" : "brunobb 03/27/2020 16:03",
 		"conditionString" : "brunobb 03/27/2020 16:02",
 		"conditionString:" : "brunobb 03/27/2020 16:02",
 		"exception" : "brunobb 03/27/2020 16:02",

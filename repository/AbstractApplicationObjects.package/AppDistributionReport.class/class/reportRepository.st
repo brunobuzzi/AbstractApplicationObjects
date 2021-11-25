@@ -1,4 +1,0 @@
-other
-reportRepository
-
-	^AppDistributionReportRepository default
